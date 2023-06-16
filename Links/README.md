@@ -7,3 +7,6 @@
 
 ## Red Teaming
 - https://github.com/ihebski/DefaultCreds-cheat-sheet/blob/main/DefaultCreds-Cheat-Sheet.csv
+
+### Tools
+- https://stratus-red-team.cloud/
