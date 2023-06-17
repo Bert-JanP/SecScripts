@@ -54,7 +54,9 @@ We welcome contributions from the security community. If you have a script or so
 - https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection - Repository for threat hunting and detection queries, etc. for Defender for Endpoint and Microsoft Sentinel in KQL(Kusto Query Language).
 - https://github.com/reprise99/Sentinel-Queries - Collection of KQL queries
 - https://github.com/FalconForceTeam/FalconFriday - Hunting queries and detections
-
+- https://github.com/Azure/Azure-Sentinel - About
+Cloud-native SIEM for intelligent security analytics for your entire enterprise.
+ 
 
 ---
 ## Incident Response
