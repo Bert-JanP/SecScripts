@@ -64,6 +64,13 @@ Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 ### Google Workspace
 - https://github.com/invictus-ir/ALFA - ALFA stands for Automated Audit Log Forensic Analysis for Google Workspace. You can use this tool to acquire all Google Workspace audit logs and to perform automated forensic analysis on the audit logs using statistics and the MITRE ATT&CK Cloud Framework
 
+### UNIX
+- https://github.com/tclahr/uac - UAC is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
+
+### Windows
+- https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape - Kroll's Artifact Parser and Extractor (KAPE) – created by Kroll senior director and three-time Forensic 4:cast DFIR Investigator of the Year Eric Zimmerman – lets forensic teams collect and process forensically useful artifacts within minutes.
+
 ## Microsoft Azure & Office 365
 - https://github.com/invictus-ir/Microsoft-Extractor-Suite - A PowerShell module for acquisition of data from Microsoft 365 and Azure for Incident Response and Cyber Security purposes.
 - https://github.com/PwC-IR/Business-Email-Compromise-Guide - The Business Email Compromise Guide sets out to describe 10 steps for performing a Business Email Compromise (BEC) investigation in an Office 365 environment. Each step is intended to guide the process of identifying, collecting and analysing activity associated with BEC intrusions.
+
