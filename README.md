@@ -48,6 +48,13 @@ We welcome contributions from the security community. If you have a script or so
 ## Detection Engineering
 - https://github.com/infosecB/awesome-detection-engineering - A list of useful Detection Engineering-related resources.
 
+### Standardized Detection Formats
+- https://github.com/SigmaHQ/sigma - Main Sigma Rule Repository
+- https://github.com/Yara-Rules/rules - Repository of yara rules
+- https://github.com/InQuest/awesome-yara#rules - A curated list of awesome YARA rules, tools, and people.
+- https://www.snort.org/downloads/#rule-downloads - Snort community ruleset
+
+
 ### KQL
 - https://www.kqlsearch.com/ - This is an aggregator for KQL queries that are shared on GitHub.
 - https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules - KQL Queries. Defender For Endpoint and Azure Sentinel Hunting and Detection Queries in KQL. Out of the box KQL queries for: Advanced Hunting, Custom Detection, Analytics Rules & Hunting Rules.
