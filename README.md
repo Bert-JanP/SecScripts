@@ -22,6 +22,9 @@ We welcome contributions from the security community. If you have a script or so
 
 ### MDE
 - https://securityoccupied.com/2023/06/15/taking-actions-on-mde-devices-via-powershell-and-mde-api/ - In an attempt to learn more about the Microsoft Defender for Endpoint (MDE) API available for investigative actions on machines, I have created a PowerShell script that can perform several machine actions for single devices and also in bulk.
+
+### Sentinel
+- https://github.com/Azure/Azure-Sentinel-Notebooks - Interactive Azure Sentinel Notebooks provides security insights and actions to investigate anomalies and hunt for malicious behaviors. 
 ---
 ## Red Teaming
 - https://github.com/ihebski/DefaultCreds-cheat-sheet/blob/main/DefaultCreds-Cheat-Sheet.csv - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password
