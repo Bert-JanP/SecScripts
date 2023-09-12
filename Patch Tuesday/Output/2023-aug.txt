@@ -1,0 +1,46 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] August 2023 Security Updates
+[+] Found a total of 142 vulnerabilities
+  [-] 18 Elevation of Privilege Vulnerabilities
+  [-] 3 Security Feature Bypass Vulnerabilities
+  [-] 23 Remote Code Execution Vulnerabilities
+  [-] 10 Information Disclosure Vulnerabilities
+  [-] 8 Denial of Service Vulnerabilities
+  [-] 13 Spoofing Vulnerabilities
+  [-] 42 Edge - Chromium Vulnerabilities
+[+] Found 2 exploited in the wild
+  [-] ADV230003 - 0.0 - Microsoft Office Defense in Depth Update
+  [-] CVE-2023-38180 - 7.5 - .NET and Visual Studio Denial of Service Vulnerability
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2023-29328 - 8.8 - Microsoft Teams Remote Code Execution Vulnerability
+  [-] CVE-2023-29330 - 8.8 - Microsoft Teams Remote Code Execution Vulnerability
+  [-] CVE-2023-35368 - 8.8 - Microsoft Exchange Remote Code Execution Vulnerability
+  [-] CVE-2023-36882 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2023-36910 - 9.8 - Microsoft Message Queuing Remote Code Execution Vulnerability
+  [-] CVE-2023-36911 - 9.8 - Microsoft Message Queuing Remote Code Execution Vulnerability
+  [-] CVE-2023-35381 - 8.8 - Windows Fax Service Remote Code Execution Vulnerability
+  [-] CVE-2023-35385 - 9.8 - Microsoft Message Queuing Remote Code Execution Vulnerability
+  [-] CVE-2023-35387 - 8.8 - Windows Bluetooth A2DP driver Elevation of Privilege Vulnerability
+  [-] CVE-2023-38185 - 8.8 - Microsoft Exchange Server Remote Code Execution Vulnerability
+  [-] CVE-2023-38169 - 8.8 - Microsoft OLE DB Remote Code Execution Vulnerability
+  [-] CVE-2023-36741 - 8.3 - Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability
+  [-] CVE-2023-21709 - 9.8 - Microsoft Exchange Server Elevation of Privilege Vulnerability
+  [-] CVE-2023-36891 - 8.0 - Microsoft SharePoint Server Spoofing Vulnerability
+  [-] CVE-2023-36892 - 8.0 - Microsoft SharePoint Server Spoofing Vulnerability
+  [-] CVE-2023-36897 - 8.1 - Visual Studio Tools for Office Runtime Spoofing Vulnerability
+  [-] CVE-2023-35388 - 8.0 - Microsoft Exchange Server Remote Code Execution Vulnerability
+  [-] CVE-2023-38182 - 8.0 - Microsoft Exchange Server Remote Code Execution Vulnerability
+  [-] CVE-2023-38181 - 8.8 - Microsoft Exchange Server Spoofing Vulnerability
+  [-] CVE-2023-36787 - 8.8 - Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability
+  [-] CVE-2018-11694 - 8.8 - None
+[+] Found 9 vulnerabilites more likely to be exploited
+  [-] CVE-2023-35359 -- Windows Kernel Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-35359
+  [-] CVE-2023-36900 -- Windows Common Log File System Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36900
+  [-] CVE-2023-35380 -- Windows Kernel Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-35380
+  [-] CVE-2023-35382 -- Windows Kernel Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-35382
+  [-] CVE-2023-35384 -- Windows HTML Platforms Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-35384
+  [-] CVE-2023-35386 -- Windows Kernel Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-35386
+  [-] CVE-2023-35388 -- Microsoft Exchange Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-35388
+  [-] CVE-2023-38182 -- Microsoft Exchange Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-38182
+  [-] ADV230004 -- Memory Integrity System Readiness Scan Tool Defense in Depth Update - https://www.cve.org/CVERecord?id=ADV230004
