@@ -1,0 +1,37 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] September 2023 Security Updates
+[+] Found a total of 66 vulnerabilities
+  [-] 17 Elevation of Privilege Vulnerabilities
+  [-] 3 Security Feature Bypass Vulnerabilities
+  [-] 24 Remote Code Execution Vulnerabilities
+  [-] 9 Information Disclosure Vulnerabilities
+  [-] 3 Denial of Service Vulnerabilities
+  [-] 5 Spoofing Vulnerabilities
+  [-] 5 Edge - Chromium Vulnerabilities
+[+] Found 2 exploited in the wild
+  [-] CVE-2023-36802 - 7.8 - Microsoft Streaming Service Proxy Elevation of Privilege Vulnerability
+  [-] CVE-2023-36761 - 6.2 - Microsoft Word Information Disclosure Vulnerability
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2023-38148 - 8.8 - Internet Connection Sharing (ICS) Remote Code Execution Vulnerability
+  [-] CVE-2023-38147 - 8.8 - Windows Miracast Wireless Display Remote Code Execution Vulnerability
+  [-] CVE-2023-38146 - 8.8 - Windows Themes Remote Code Execution Vulnerability
+  [-] CVE-2023-36757 - 8.0 - Microsoft Exchange Server Spoofing Vulnerability
+  [-] CVE-2023-36756 - 8.0 - Microsoft Exchange Server Remote Code Execution Vulnerability
+  [-] CVE-2023-36745 - 8.0 - Microsoft Exchange Server Remote Code Execution Vulnerability
+  [-] CVE-2023-36744 - 8.0 - Microsoft Exchange Server Remote Code Execution Vulnerability
+  [-] CVE-2023-33136 - 8.8 - Azure DevOps Server Remote Code Execution Vulnerability
+  [-] CVE-2023-36764 - 8.8 - Microsoft SharePoint Server Elevation of Privilege Vulnerability
+[+] Found 12 vulnerabilites more likely to be exploited
+  [-] CVE-2023-38161 -- Windows GDI Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-38161
+  [-] CVE-2023-38152 -- DHCP Server Service Information Disclosure Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-38152
+  [-] CVE-2023-38148 -- Internet Connection Sharing (ICS) Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-38148
+  [-] CVE-2023-38144 -- Windows Common Log File System Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-38144
+  [-] CVE-2023-38143 -- Windows Common Log File System Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-38143
+  [-] CVE-2023-38142 -- Windows Kernel Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-38142
+  [-] CVE-2023-36804 -- Windows GDI Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36804
+  [-] CVE-2023-36756 -- Microsoft Exchange Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36756
+  [-] CVE-2023-36745 -- Microsoft Exchange Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36745
+  [-] CVE-2023-36744 -- Microsoft Exchange Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36744
+  [-] CVE-2023-38160 -- Windows TCP/IP Information Disclosure Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-38160
+  [-] CVE-2023-36777 -- Microsoft Exchange Server Information Disclosure Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36777
