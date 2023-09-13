@@ -1,0 +1,30 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] May 2023 Security Updates
+[+] Found a total of 67 vulnerabilities
+  [-] 8 Elevation of Privilege Vulnerabilities
+  [-] 4 Security Feature Bypass Vulnerabilities
+  [-] 12 Remote Code Execution Vulnerabilities
+  [-] 8 Information Disclosure Vulnerabilities
+  [-] 5 Denial of Service Vulnerabilities
+  [-] 1 Spoofing Vulnerabilities
+  [-] 17 Edge - Chromium Vulnerabilities
+[+] Found 2 exploited in the wild
+  [-] CVE-2023-29336 - 7.8 - Win32k Elevation of Privilege Vulnerability
+  [-] CVE-2023-24932 - 6.7 - Secure Boot Security Feature Bypass Vulnerability
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2023-28283 - 8.1 - Windows Lightweight Directory Access Protocol (LDAP) Remote Code Execution Vulnerability
+  [-] CVE-2023-24941 - 9.8 - Windows Network File System Remote Code Execution Vulnerability
+  [-] CVE-2023-24903 - 8.1 - Windows Secure Socket Tunneling Protocol (SSTP) Remote Code Execution Vulnerability
+  [-] CVE-2023-24943 - 9.8 - Windows Pragmatic General Multicast (PGM) Remote Code Execution Vulnerability
+  [-] CVE-2023-24947 - 8.8 - Windows Bluetooth Driver Remote Code Execution Vulnerability
+  [-] CVE-2023-29325 - 8.1 - Windows OLE Remote Code Execution Vulnerability
+[+] Found 8 vulnerabilites more likely to be exploited
+  [-] CVE-2023-24941 -- Windows Network File System Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-24941
+  [-] CVE-2023-24902 -- Win32k Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-24902
+  [-] CVE-2023-24949 -- Windows Kernel Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-24949
+  [-] CVE-2023-24950 -- Microsoft SharePoint Server Spoofing Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-24950
+  [-] CVE-2023-24954 -- Microsoft SharePoint Server Information Disclosure Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-24954
+  [-] CVE-2023-24955 -- Microsoft SharePoint Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-24955
+  [-] CVE-2023-29324 -- Windows MSHTML Platform Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-29324
+  [-] CVE-2023-29325 -- Windows OLE Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-29325

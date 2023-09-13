@@ -1,0 +1,52 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] July 2023 Security Updates
+[+] Found a total of 162 vulnerabilities
+  [-] 33 Elevation of Privilege Vulnerabilities
+  [-] 13 Security Feature Bypass Vulnerabilities
+  [-] 37 Remote Code Execution Vulnerabilities
+  [-] 19 Information Disclosure Vulnerabilities
+  [-] 22 Denial of Service Vulnerabilities
+  [-] 9 Spoofing Vulnerabilities
+  [-] 14 Edge - Chromium Vulnerabilities
+[+] Found 6 exploited in the wild
+  [-] CVE-2023-32046 - 7.8 - Windows MSHTML Platform Elevation of Privilege Vulnerability
+  [-] CVE-2023-32049 - 8.8 - Windows SmartScreen Security Feature Bypass Vulnerability
+  [-] CVE-2023-36874 - 7.8 - Windows Error Reporting Service Elevation of Privilege Vulnerability
+  [-] CVE-2023-36884 - 7.5 - Windows Search Remote Code Execution Vulnerability
+  [-] ADV230001 - 0.0 - Guidance on Microsoft Signed Drivers Being Used Maliciously
+  [-] CVE-2023-35311 - 8.8 - Microsoft Outlook Security Feature Bypass Vulnerability
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2023-33150 - 9.6 - Microsoft Office Security Feature Bypass Vulnerability
+  [-] CVE-2023-32038 - 8.8 - Microsoft ODBC Driver Remote Code Execution Vulnerability
+  [-] CVE-2023-32049 - 8.8 - Windows SmartScreen Security Feature Bypass Vulnerability
+  [-] CVE-2023-35315 - 8.8 - Windows Layer-2 Bridge Network Driver Remote Code Execution Vulnerability
+  [-] CVE-2023-35322 - 8.8 - Windows Deployment Services Remote Code Execution Vulnerability
+  [-] CVE-2023-35333 - 8.8 - MediaWiki PandocUpload Extension Remote Code Execution Vulnerability
+  [-] CVE-2023-35364 - 8.8 - Windows Kernel Elevation of Privilege Vulnerability
+  [-] CVE-2023-35365 - 9.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2023-35366 - 9.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2023-35367 - 9.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2023-29347 - 8.7 - Windows Admin Center Spoofing Vulnerability
+  [-] CVE-2023-33127 - 8.1 - .NET and Visual Studio Elevation of Privilege Vulnerability
+  [-] CVE-2023-33134 - 8.8 - Microsoft SharePoint Server Remote Code Execution Vulnerability
+  [-] CVE-2023-33157 - 8.8 - Microsoft SharePoint Remote Code Execution Vulnerability
+  [-] CVE-2023-33159 - 8.8 - Microsoft SharePoint Server Spoofing Vulnerability
+  [-] CVE-2023-33160 - 8.8 - Microsoft SharePoint Server Remote Code Execution Vulnerability
+  [-] CVE-2023-33170 - 8.1 - ASP.NET and Visual Studio Security Feature Bypass Vulnerability
+  [-] CVE-2023-33171 - 8.2 - Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability
+  [-] CVE-2023-32057 - 9.8 - Microsoft Message Queuing Remote Code Execution Vulnerability
+  [-] CVE-2023-35300 - 8.8 - Remote Procedure Call Runtime Remote Code Execution Vulnerability
+  [-] CVE-2023-35302 - 8.8 - Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability
+  [-] CVE-2023-35303 - 8.8 - USB Audio Class System Driver Remote Code Execution Vulnerability
+  [-] CVE-2023-35311 - 8.8 - Microsoft Outlook Security Feature Bypass Vulnerability
+  [-] CVE-2023-35335 - 8.2 - Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability
+  [-] CVE-2022-28331 - 9.8 - None
+  [-] CVE-2022-29503 - 9.8 - None
+[+] Found 6 vulnerabilites more likely to be exploited
+  [-] CVE-2023-35352 -- Windows Remote Desktop Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-35352
+  [-] CVE-2023-21526 -- Windows Netlogon Information Disclosure Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-21526
+  [-] CVE-2023-33134 -- Microsoft SharePoint Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-33134
+  [-] CVE-2023-33157 -- Microsoft SharePoint Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-33157
+  [-] CVE-2023-35312 -- Microsoft VOLSNAP.SYS Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-35312
+  [-] CVE-2023-36871 -- Azure Active Directory Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36871

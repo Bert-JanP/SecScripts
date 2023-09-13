@@ -1,0 +1,37 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] June 2023 Security Updates
+[+] Found a total of 120 vulnerabilities
+  [-] 17 Elevation of Privilege Vulnerabilities
+  [-] 3 Security Feature Bypass Vulnerabilities
+  [-] 38 Remote Code Execution Vulnerabilities
+  [-] 5 Information Disclosure Vulnerabilities
+  [-] 10 Denial of Service Vulnerabilities
+  [-] 10 Spoofing Vulnerabilities
+  [-] 24 Edge - Chromium Vulnerabilities
+[+] Found 0 exploited in the wild
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2023-28310 - 8.0 - Microsoft Exchange Server Remote Code Execution Vulnerability
+  [-] CVE-2023-32031 - 8.8 - Microsoft Exchange Server Remote Code Execution Vulnerability
+  [-] CVE-2023-29351 - 8.1 - Windows Group Policy Elevation of Privilege Vulnerability
+  [-] CVE-2023-29357 - 9.8 - Microsoft SharePoint Server Elevation of Privilege Vulnerability
+  [-] CVE-2023-29360 - 8.4 - Microsoft Streaming Service Elevation of Privilege Vulnerability
+  [-] CVE-2023-29362 - 8.8 - Remote Desktop Client Remote Code Execution Vulnerability
+  [-] CVE-2023-29363 - 9.8 - Windows Pragmatic General Multicast (PGM) Remote Code Execution Vulnerability
+  [-] CVE-2023-29372 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2023-29373 - 8.8 - Microsoft ODBC Driver Remote Code Execution Vulnerability
+  [-] CVE-2023-32009 - 8.8 - Windows Collaborative Translation Framework Elevation of Privilege Vulnerability
+  [-] CVE-2023-32014 - 9.8 - Windows Pragmatic General Multicast (PGM) Remote Code Execution Vulnerability
+  [-] CVE-2023-32015 - 9.8 - Windows Pragmatic General Multicast (PGM) Remote Code Execution Vulnerability
+  [-] CVE-2023-33131 - 8.8 - Microsoft Outlook Remote Code Execution Vulnerability
+  [-] CVE-2023-29402 - 9.8 - None
+  [-] CVE-2023-29404 - 9.8 - None
+[+] Found 8 vulnerabilites more likely to be exploited
+  [-] CVE-2023-28310 -- Microsoft Exchange Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-28310
+  [-] CVE-2023-32031 -- Microsoft Exchange Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-32031
+  [-] CVE-2023-29357 -- Microsoft SharePoint Server Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-29357
+  [-] CVE-2023-29358 -- Windows GDI Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-29358
+  [-] CVE-2023-29359 -- GDI Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-29359
+  [-] CVE-2023-29360 -- Microsoft Streaming Service Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-29360
+  [-] CVE-2023-29361 -- Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-29361
+  [-] CVE-2023-29371 -- Windows GDI Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-29371
