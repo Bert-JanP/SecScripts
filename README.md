@@ -59,6 +59,7 @@ We welcome contributions from the security community. If you have a script or so
 
 
 ### KQL
+- https://kqlquery.com/ - Stay informed, stay secure, and stay one step ahead of adversaries with KQL
 - https://www.kqlsearch.com/ - This is an aggregator for KQL queries that are shared on GitHub.
 - https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules - KQL Queries. Defender For Endpoint and Azure Sentinel Hunting and Detection Queries in KQL. Out of the box KQL queries for: Advanced Hunting, Custom Detection, Analytics Rules & Hunting Rules.
 - https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection - Repository for threat hunting and detection queries, etc. for Defender for Endpoint and Microsoft Sentinel in KQL(Kusto Query Language).
