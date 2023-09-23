@@ -25,6 +25,10 @@ We welcome contributions from the security community. If you have a script or so
 
 ### Sentinel
 - https://github.com/Azure/Azure-Sentinel-Notebooks - Interactive Azure Sentinel Notebooks provides security insights and actions to investigate anomalies and hunt for malicious behaviors. 
+
+#### Sentinel Blogs
+- https://medium.com/@truvis.thornton/microsoft-azure-sentinel-adding-tlps-traffic-light-patterns-to-incidents-alerts-and-analytics-f05e0b2f171e - Microsoft Azure Sentinel: Adding TLPs (Traffic Light Protocol) to Incidents, Alerts and Analytics Rules.
+
 ---
 ## Red Teaming
 - https://github.com/ihebski/DefaultCreds-cheat-sheet/blob/main/DefaultCreds-Cheat-Sheet.csv - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password
