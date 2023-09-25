@@ -23,6 +23,9 @@ We welcome contributions from the security community. If you have a script or so
 ### MDE
 - https://securityoccupied.com/2023/06/15/taking-actions-on-mde-devices-via-powershell-and-mde-api/ - In an attempt to learn more about the Microsoft Defender for Endpoint (MDE) API available for investigative actions on machines, I have created a PowerShell script that can perform several machine actions for single devices and also in bulk.
 
+#### MDE Blogs
+- https://medium.com/@DFIRanjith/remote-collection-of-windows-forensic-artifacts-using-kape-and-microsoft-defender-for-endpoint-f7d3a857e2e0 - Remote collection of Windows Forensic Artifacts using KAPE and Microsoft Defender for Endpoint.
+
 ### Sentinel
 - https://github.com/Azure/Azure-Sentinel-Notebooks - Interactive Azure Sentinel Notebooks provides security insights and actions to investigate anomalies and hunt for malicious behaviors. 
 
