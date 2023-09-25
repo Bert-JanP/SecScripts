@@ -51,6 +51,9 @@ We welcome contributions from the security community. If you have a script or so
 ---
 ## Threat Hunting
 - https://www.giac.org/paper/gsec/23549/hunting-gathering-powershell/121279
+- https://www.betaalvereniging.nl/en/safety/tahiti/ - TaHiTI Threat Hunting Methodology
+- https://www.betaalvereniging.nl/wp-content/uploads/DEF-TaHiTI-Threat-Hunting-Methodology.pdf - A joint threat hunting methodology from the Dutch financial sector
+
 ---
 ## Threat Intelligence 
 - https://github.com/fastfire/deepdarkCTI - Collection of Cyber Threat Intelligence sources from the deep and dark web
