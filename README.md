@@ -95,3 +95,6 @@ We welcome contributions from the security community. If you have a script or so
 - https://github.com/invictus-ir/Microsoft-Extractor-Suite - A PowerShell module for acquisition of data from Microsoft 365 and Azure for Incident Response and Cyber Security purposes.
 - https://github.com/PwC-IR/Business-Email-Compromise-Guide - The Business Email Compromise Guide sets out to describe 10 steps for performing a Business Email Compromise (BEC) investigation in an Office 365 environment. Each step is intended to guide the process of identifying, collecting and analysing activity associated with BEC intrusions.
 
+## Other
+- https://github.com/DebugPrivilege/InsightEngineering/ - This GitHub repository dives into fundamental concepts I believe are important for understanding debugging and troubleshooting complex issues on Windows.
+
