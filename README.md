@@ -77,6 +77,7 @@ We welcome contributions from the security community. If you have a script or so
 - https://github.com/FalconForceTeam/FalconFriday - Hunting queries and detections
 - https://github.com/Azure/Azure-Sentinel - About Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - https://github.com/Cloud-Architekt/AzureSentinel - Sharing my KQL queries for Azure Sentinel
+- https://github.com/alexverboon/Hunting-Queries-Detection-Rules - KQL Queries. Microsoft 365 Defender, Microsoft Sentinel
  
 
 ---
