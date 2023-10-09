@@ -20,6 +20,9 @@ We welcome contributions from the security community. If you have a script or so
 ---
 ## Security Tooling
 
+### Microsoft Incident lookup
+- https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/concept-identity-protection-risks - What are risk detections?
+
 ### MDE
 - https://securityoccupied.com/2023/06/15/taking-actions-on-mde-devices-via-powershell-and-mde-api/ - In an attempt to learn more about the Microsoft Defender for Endpoint (MDE) API available for investigative actions on machines, I have created a PowerShell script that can perform several machine actions for single devices and also in bulk.
 
