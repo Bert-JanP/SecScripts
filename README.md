@@ -104,3 +104,5 @@ We welcome contributions from the security community. If you have a script or so
 ## Other
 - https://github.com/DebugPrivilege/InsightEngineering/ - This GitHub repository dives into fundamental concepts I believe are important for understanding debugging and troubleshooting complex issues on Windows.
 
+## Reports
+- https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023 - Microsoft Digital Defense Report 2023
