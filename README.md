@@ -35,6 +35,10 @@ We welcome contributions from the security community. If you have a script or so
 #### Sentinel Blogs
 - https://medium.com/@truvis.thornton/microsoft-azure-sentinel-adding-tlps-traffic-light-patterns-to-incidents-alerts-and-analytics-f05e0b2f171e - Microsoft Azure Sentinel: Adding TLPs (Traffic Light Protocol) to Incidents, Alerts and Analytics Rules.
 
+### Microsoft Graph Security
+
+- https://learn.microsoft.com/en-us/connectors/microsoftgraphsecurity/ - The Microsoft Graph Security connector helps to connect different Microsoft and partner security products and services, using a unified schema, to streamline security operations, and improve threat protection, detection, and response capabilities.
+
 ---
 ## Red Teaming
 - https://github.com/ihebski/DefaultCreds-cheat-sheet/blob/main/DefaultCreds-Cheat-Sheet.csv - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password
