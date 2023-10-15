@@ -88,6 +88,7 @@ We welcome contributions from the security community. If you have a script or so
 - https://github.com/f-bader/AzSentinelQueries - Microsoft Sentinel hunting queries and Analytics rules
 - https://github.com/wortell/KQL - KQL queries for Advanced Hunting
 - https://gist.github.com/Shivammalaviya - KQL Security Queries
+- https://github.com/rod-trent/SentinelKQL - Azure Sentinel KQL
 
 ---
 ## Incident Response
