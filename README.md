@@ -17,6 +17,9 @@ We welcome contributions from the security community. If you have a script or so
 ## General
 - https://attack.mitre.org/ - MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
 
+## Security Architecture
+- https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns - Azure security best practices and patterns
+
 ---
 ## Security Tooling
 
