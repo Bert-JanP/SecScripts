@@ -92,6 +92,7 @@ We welcome contributions from the security community. If you have a script or so
 - https://github.com/wortell/KQL - KQL queries for Advanced Hunting
 - https://gist.github.com/Shivammalaviya - KQL Security Queries
 - https://github.com/rod-trent/SentinelKQL - Azure Sentinel KQL
+- https://github.com/invictus-ir/Invictus-training/tree/main/KQL-QueryPack - Invictus: Cloud Incident Response Query Pack
 
 ---
 ## Incident Response
