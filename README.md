@@ -19,6 +19,7 @@ We welcome contributions from the security community. If you have a script or so
 
 ## Security Architecture
 - https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns - Azure security best practices and patterns
+- https://learn.microsoft.com/en-us/azure/active-directory/architecture/security-operations-user-accounts - Security Operations Guide Azure Active Directory
 
 ---
 ## Security Tooling
