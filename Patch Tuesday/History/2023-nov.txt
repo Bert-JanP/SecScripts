@@ -1,0 +1,48 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] November 2023 Security Updates
+[+] Found a total of 83 vulnerabilities
+  [-] 16 Elevation of Privilege Vulnerabilities
+  [-] 6 Security Feature Bypass Vulnerabilities
+  [-] 15 Remote Code Execution Vulnerabilities
+  [-] 6 Information Disclosure Vulnerabilities
+  [-] 5 Denial of Service Vulnerabilities
+  [-] 11 Spoofing Vulnerabilities
+  [-] 19 Edge - Chromium Vulnerabilities
+[+] Found 3 exploited in the wild
+  [-] CVE-2023-36036 - 7.8 - Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability
+  [-] CVE-2023-36033 - 7.8 - Windows DWM Core Library Elevation of Privilege Vulnerability
+  [-] CVE-2023-36025 - 8.8 - Windows SmartScreen Security Feature Bypass Vulnerability
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2023-38151 - 8.8 - Microsoft Host Integration Server 2020 Remote Code Execution Vulnerability
+  [-] CVE-2023-36719 - 8.4 - Microsoft Speech Application Programming Interface (SAPI) Elevation of Privilege Vulnerability
+  [-] CVE-2023-36560 - 8.8 - ASP.NET Security Feature Bypass Vulnerability
+  [-] CVE-2023-36437 - 8.8 - Azure DevOps Server Remote Code Execution Vulnerability
+  [-] CVE-2023-36425 - 8.0 - Windows Distributed File System (DFS) Remote Code Execution Vulnerability
+  [-] CVE-2023-36052 - 8.6 - Azure CLI REST Command Information Disclosure Vulnerability
+  [-] CVE-2023-36017 - 8.8 - Windows Scripting Engine Memory Corruption Vulnerability
+  [-] CVE-2023-36439 - 8.0 - Microsoft Exchange Server Remote Code Execution Vulnerability
+  [-] CVE-2023-36402 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2023-36400 - 8.8 - Windows HMAC Key Derivation Elevation of Privilege Vulnerability
+  [-] CVE-2023-36397 - 9.8 - Windows Pragmatic General Multicast (PGM) Remote Code Execution Vulnerability
+  [-] CVE-2023-36050 - 8.0 - Microsoft Exchange Server Spoofing Vulnerability
+  [-] CVE-2023-36039 - 8.0 - Microsoft Exchange Server Spoofing Vulnerability
+  [-] CVE-2023-36038 - 8.2 - ASP.NET Core Denial of Service Vulnerability
+  [-] CVE-2023-36035 - 8.0 - Microsoft Exchange Server Spoofing Vulnerability
+  [-] CVE-2023-36028 - 9.8 - Microsoft Protected Extensible Authentication Protocol (PEAP) Remote Code Execution Vulnerability
+  [-] CVE-2023-36021 - 8.0 - Microsoft On-Prem Data Gateway Security Feature Bypass Vulnerability
+  [-] CVE-2023-36025 - 8.8 - Windows SmartScreen Security Feature Bypass Vulnerability
+  [-] CVE-2023-46316 - 9.8 - None
+  [-] CVE-2020-14343 - 9.8 - None
+  [-] CVE-2020-1747 - 9.8 - None
+[+] Found 10 vulnerabilites more likely to be exploited
+  [-] CVE-2023-36424 -- Windows Common Log File System Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36424
+  [-] CVE-2023-36413 -- Microsoft Office Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36413
+  [-] CVE-2023-36017 -- Windows Scripting Engine Memory Corruption Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36017
+  [-] CVE-2023-38177 -- Microsoft SharePoint Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-38177
+  [-] CVE-2023-36439 -- Microsoft Exchange Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36439
+  [-] CVE-2023-36399 -- Windows Storage Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36399
+  [-] CVE-2023-36394 -- Windows Search Service Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36394
+  [-] CVE-2023-36050 -- Microsoft Exchange Server Spoofing Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36050
+  [-] CVE-2023-36039 -- Microsoft Exchange Server Spoofing Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36039
+  [-] CVE-2023-36035 -- Microsoft Exchange Server Spoofing Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36035
