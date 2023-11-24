@@ -96,7 +96,7 @@ We welcome contributions from the security community. If you have a script or so
 - https://github.com/rod-trent/SentinelKQL - Azure Sentinel KQL
 - https://github.com/invictus-ir/Invictus-training/tree/main/KQL-QueryPack - Invictus: Cloud Incident Response Query Pack
 - https://github.com/JesseEsquivel/MDATP/tree/master/AdvancedHunting - Microsoft Defender Advanced Threat Protection
-
+- https://kustoinsights.substack.com/ - Kusto Insights newletter
 ---
 ## Incident Response
 
