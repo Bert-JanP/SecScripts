@@ -14,16 +14,21 @@ We welcome contributions from the security community. If you have a script or so
 
 # Cyber Sources
 
+# Documentation
 ## General
 - https://attack.mitre.org/ - MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
-- https://github.com/rabobank-cdc/DeTTECT - Detect Tactics, Techniques & Combat Threats
 - https://www.microsoft.com/en-us/security/blog/2023/12/05/microsoft-incident-response-lessons-on-preventing-cloud-identity-compromise/ - Microsoft Incident Response lessons on preventing cloud identity compromise
 
 ## Security Architecture
 - https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns - Azure security best practices and patterns
 - https://learn.microsoft.com/en-us/azure/active-directory/architecture/security-operations-user-accounts - Security Operations Guide Azure Active Directory
 
----
+## Tools
+
+- https://github.com/rabobank-cdc/DeTTECT - Detect Tactics, Techniques & Combat Threats
+
+## Information Repositories
+
 ## Security Tooling
 
 ### Microsoft Incident lookup
