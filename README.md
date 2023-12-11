@@ -106,6 +106,8 @@ We welcome contributions from the security community. If you have a script or so
 ---
 ## Incident Response
 
+- https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/documents/MS-IR-Playbook-Final.pdf%20 - Navigating the Maze of Incident Response
+
 ### Google Workspace
 - https://github.com/invictus-ir/ALFA - ALFA stands for Automated Audit Log Forensic Analysis for Google Workspace. You can use this tool to acquire all Google Workspace audit logs and to perform automated forensic analysis on the audit logs using statistics and the MITRE ATT&CK Cloud Framework
 
