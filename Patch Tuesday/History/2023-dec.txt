@@ -1,0 +1,33 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] December 2023 Security Updates
+[+] Found a total of 42 vulnerabilities
+  [-] 10 Elevation of Privilege Vulnerabilities
+  [-] 0 Security Feature Bypass Vulnerabilities
+  [-] 8 Remote Code Execution Vulnerabilities
+  [-] 6 Information Disclosure Vulnerabilities
+  [-] 5 Denial of Service Vulnerabilities
+  [-] 5 Spoofing Vulnerabilities
+  [-] 8 Edge - Chromium Vulnerabilities
+[+] Found 0 exploited in the wild
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2023-35618 - 9.6 - Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability
+  [-] CVE-2023-36019 - 9.6 - Microsoft Power Platform Connector Spoofing Vulnerability
+  [-] CVE-2023-36006 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2023-35639 - 8.8 - Microsoft ODBC Driver Remote Code Execution Vulnerability
+  [-] CVE-2023-35641 - 8.8 - Internet Connection Sharing (ICS) Remote Code Execution Vulnerability
+  [-] CVE-2023-35628 - 8.1 - Windows MSHTML Platform Remote Code Execution Vulnerability
+  [-] CVE-2023-35630 - 8.8 - Internet Connection Sharing (ICS) Remote Code Execution Vulnerability
+  [-] CVE-2023-35634 - 8.0 - Windows Bluetooth Driver Remote Code Execution Vulnerability
+[+] Found 11 vulnerabilites more likely to be exploited
+  [-] CVE-2023-36696 -- Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36696
+  [-] CVE-2023-36391 -- Local Security Authority Subsystem Service Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36391
+  [-] CVE-2023-36011 -- Win32k Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36011
+  [-] CVE-2023-36010 -- Microsoft Defender Denial of Service Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36010
+  [-] CVE-2023-36005 -- Windows Telephony Server Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-36005
+  [-] CVE-2023-35641 -- Internet Connection Sharing (ICS) Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-35641
+  [-] CVE-2023-35644 -- Windows Sysmain Service Elevation of Privilege - https://www.cve.org/CVERecord?id=CVE-2023-35644
+  [-] CVE-2023-35628 -- Windows MSHTML Platform Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-35628
+  [-] CVE-2023-35631 -- Win32k Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-35631
+  [-] CVE-2023-35632 -- Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-35632
+  [-] CVE-2023-35633 -- Windows Kernel Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2023-35633
