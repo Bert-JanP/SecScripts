@@ -1,5 +1,5 @@
 # CISAPy
-CISAPy is a command line tool that lets you interact with the [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog). 
+CISAPy is a small command line tool that lets you interact with the [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog). 
 It offers the following functionalities:
 1. Listing (filtered) vulnerabilities
 2. Exporting (filtered) vulnerabilities
