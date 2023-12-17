@@ -55,7 +55,7 @@ def export_vulnerabilities():
         print("No vulnerabilities found to export.")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Fetch known exploited vulnerabilities JSON and perform operations.")
+    parser = argparse.ArgumentParser(description="CISAPy by By twitter: @BertJanCyber, Github: Bert-JanP. CISAPy is a commandline tool that lets you interact with the CISA Known Exploited Vulnerabilities Catalog. It lets you fetch the vulnerabilities catalog to dynamic JSON and perform statistics analysis.")
     parser.add_argument("-s", "--stats", help="Show statistics of vulnerabilities added for each year", action="store_true")
     parser.add_argument("-e", "--export", help="Export vulnerabilities to a JSON file", action="store_true")
     parser.add_argument("-y", "--year", help="Filter entries equal to or newer than the specified YEAR (format: YYYY)", type=str)
