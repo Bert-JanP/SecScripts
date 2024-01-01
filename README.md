@@ -104,6 +104,7 @@ We welcome contributions from the security community. If you have a script or so
 - https://github.com/JesseEsquivel/MDATP/tree/master/AdvancedHunting - Microsoft Defender Advanced Threat Protection
 - https://kustoinsights.substack.com/ - Kusto Insights newletter
 - https://github.com/0xAnalyst/DefenderATPQueries - Hunting Queries for Defender ATP
+- https://github.com/LearningKijo/KQL - Threat Hunting query in Microsoft 365 Defender, XDR. Provide out-of-the-box KQL hunting queries - App, Email, Identity and Endpoint.
 ---
 ## Incident Response
 
