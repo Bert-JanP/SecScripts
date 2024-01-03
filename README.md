@@ -105,6 +105,8 @@ We welcome contributions from the security community. If you have a script or so
 - https://kustoinsights.substack.com/ - Kusto Insights newletter
 - https://github.com/0xAnalyst/DefenderATPQueries - Hunting Queries for Defender ATP
 - https://github.com/LearningKijo/KQL - Threat Hunting query in Microsoft 365 Defender, XDR. Provide out-of-the-box KQL hunting queries - App, Email, Identity and Endpoint.
+- https://github.com/KostasKoutrou/KQL/tree/main - KQL Queries for Advanced Hunting / Log Analytics
+- https://identityandsecuritydotcom.files.wordpress.com/2020/05/kql_internals_sentinel.pdf - Kusto Query Internals: Hunting TTPs with Azure Sentinel
 ---
 ## Incident Response
 
