@@ -1,0 +1,29 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] January 2024 Security Updates
+[+] Found a total of 53 vulnerabilities
+  [-] 10 Elevation of Privilege Vulnerabilities
+  [-] 7 Security Feature Bypass Vulnerabilities
+  [-] 12 Remote Code Execution Vulnerabilities
+  [-] 11 Information Disclosure Vulnerabilities
+  [-] 6 Denial of Service Vulnerabilities
+  [-] 3 Spoofing Vulnerabilities
+  [-] 4 Edge - Chromium Vulnerabilities
+[+] Found 0 exploited in the wild
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2024-20674 - 9.0 - Windows Kerberos Security Feature Bypass Vulnerability
+  [-] CVE-2024-20676 - 8.0 - Azure Storage Mover Remote Code Execution Vulnerability
+  [-] CVE-2024-20654 - 8.0 - Microsoft ODBC Driver Remote Code Execution Vulnerability
+  [-] CVE-2024-0056 - 8.7 - Microsoft.Data.SqlClient and System.Data.SqlClient SQL Data Provider Security Feature Bypass Vulnerability
+  [-] CVE-2024-0057 - 9.1 - NET, .NET Framework, and Visual Studio Security Feature Bypass Vulnerability
+  [-] CVE-2024-21318 - 8.8 - Microsoft SharePoint Server Remote Code Execution Vulnerability
+[+] Found 9 vulnerabilites more likely to be exploited
+  [-] CVE-2024-20674 -- Windows Kerberos Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-20674
+  [-] CVE-2024-20683 -- Win32k Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-20683
+  [-] CVE-2024-20698 -- Windows Kernel Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-20698
+  [-] CVE-2024-21307 -- Remote Desktop Client Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-21307
+  [-] CVE-2024-20652 -- Windows HTML Platforms Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-20652
+  [-] CVE-2024-20653 -- Microsoft Common Log File System Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-20653
+  [-] CVE-2024-20686 -- Win32k Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-20686
+  [-] CVE-2024-21310 -- Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-21310
+  [-] CVE-2024-21318 -- Microsoft SharePoint Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-21318
