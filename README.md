@@ -129,6 +129,8 @@ We welcome contributions from the security community. If you have a script or so
 ## Other
 - https://github.com/DebugPrivilege/InsightEngineering/ - This GitHub repository dives into fundamental concepts I believe are important for understanding debugging and troubleshooting complex issues on Windows.
 - https://github.com/FriedrichWeinmann/PkiExtension - Welcome to the PKI Extension PowerShell module project.
-
+- https://digger.tools/
+- https://www.microsoft.com/en-us/security/blog/2024/01/17/new-microsoft-incident-response-guides-help-security-teams-analyze-suspicious-activity/ - New Microsoft Incident Response guides help security teams analyze suspicious activity
+- https://privacy.sexy/ - Enforce privacy & security best-practices on Windows, macOS and Linux.
 ## Reports
 - https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023 - Microsoft Digital Defense Report 2023
