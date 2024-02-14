@@ -1,0 +1,55 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] February 2024 Security Updates
+[+] Found a total of 80 vulnerabilities
+  [-] 16 Elevation of Privilege Vulnerabilities
+  [-] 3 Security Feature Bypass Vulnerabilities
+  [-] 30 Remote Code Execution Vulnerabilities
+  [-] 5 Information Disclosure Vulnerabilities
+  [-] 9 Denial of Service Vulnerabilities
+  [-] 10 Spoofing Vulnerabilities
+  [-] 6 Edge - Chromium Vulnerabilities
+[+] Found 2 exploited in the wild
+  [-] CVE-2024-21351 - 7.6 - Windows SmartScreen Security Feature Bypass Vulnerability
+  [-] CVE-2024-21412 - 8.1 - Internet Shortcut Files Security Feature Bypass Vulnerability
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2024-21349 - 8.8 - Microsoft ActiveX Data Objects Remote Code Execution Vulnerability
+  [-] CVE-2024-21350 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21352 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21358 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21360 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21361 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21366 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21369 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21372 - 8.8 - Windows OLE Remote Code Execution Vulnerability
+  [-] CVE-2024-21375 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21401 - 9.8 - Microsoft Entra Jira Single-Sign-On Plugin Elevation of Privilege Vulnerability
+  [-] CVE-2024-21413 - 9.8 - Microsoft Outlook Remote Code Execution Vulnerability
+  [-] CVE-2024-21420 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21345 - 8.8 - Windows Kernel Elevation of Privilege Vulnerability
+  [-] CVE-2024-21353 - 8.8 - Microsoft WDAC ODBC Driver Remote Code Execution Vulnerability
+  [-] CVE-2024-21359 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21364 - 9.3 - Microsoft Azure Site Recovery Elevation of Privilege Vulnerability
+  [-] CVE-2024-21365 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21367 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21368 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21370 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21376 - 9.0 - Microsoft Azure Kubernetes Service Confidential Container Remote Code Execution Vulnerability
+  [-] CVE-2024-21378 - 8.0 - Microsoft Outlook Remote Code Execution Vulnerability
+  [-] CVE-2024-21380 - 8.0 - Microsoft Dynamics Business Central/NAV Information Disclosure Vulnerability
+  [-] CVE-2024-21391 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21395 - 8.2 - Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability
+  [-] CVE-2024-21399 - 8.3 - Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability
+  [-] CVE-2024-21403 - 9.0 - Microsoft Azure Kubernetes Service Confidential Container Elevation of Privilege Vulnerability
+  [-] CVE-2024-21410 - 9.8 - Microsoft Exchange Server Elevation of Privilege Vulnerability
+  [-] CVE-2024-21412 - 8.1 - Internet Shortcut Files Security Feature Bypass Vulnerability
+  [-] CVE-2024-21626 - 8.6 - None
+[+] Found 8 vulnerabilites more likely to be exploited
+  [-] CVE-2024-21338 -- Windows Kernel Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-21338
+  [-] CVE-2024-21357 -- Windows Pragmatic General Multicast (PGM) Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-21357
+  [-] CVE-2024-21371 -- Windows Kernel Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-21371
+  [-] CVE-2024-21379 -- Microsoft Word Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-21379
+  [-] CVE-2024-21345 -- Windows Kernel Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-21345
+  [-] CVE-2024-21346 -- Win32k Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-21346
+  [-] CVE-2024-21378 -- Microsoft Outlook Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-21378
+  [-] CVE-2024-21410 -- Microsoft Exchange Server Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-21410
