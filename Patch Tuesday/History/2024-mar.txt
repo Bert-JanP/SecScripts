@@ -1,0 +1,37 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] March 2024 Security Updates
+[+] Found a total of 64 vulnerabilities
+  [-] 24 Elevation of Privilege Vulnerabilities
+  [-] 3 Security Feature Bypass Vulnerabilities
+  [-] 18 Remote Code Execution Vulnerabilities
+  [-] 6 Information Disclosure Vulnerabilities
+  [-] 6 Denial of Service Vulnerabilities
+  [-] 2 Spoofing Vulnerabilities
+  [-] 3 Edge - Chromium Vulnerabilities
+[+] Found 0 exploited in the wild
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2024-21411 - 8.8 - Skype for Consumer Remote Code Execution Vulnerability
+  [-] CVE-2024-21441 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21444 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21450 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21451 - 8.8 - Microsoft ODBC Driver Remote Code Execution Vulnerability
+  [-] CVE-2024-26159 - 8.8 - Microsoft ODBC Driver Remote Code Execution Vulnerability
+  [-] CVE-2024-26198 - 8.8 - Microsoft Exchange Server Remote Code Execution Vulnerability
+  [-] CVE-2024-26161 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-26164 - 8.8 - Microsoft Django Backend for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-21334 - 9.8 - Open Management Infrastructure (OMI) Remote Code Execution Vulnerability
+  [-] CVE-2024-21400 - 9.0 - Microsoft Azure Kubernetes Service Confidential Container Elevation of Privilege Vulnerability
+  [-] CVE-2024-21407 - 8.1 - Windows Hyper-V Remote Code Execution Vulnerability
+  [-] CVE-2024-21435 - 8.8 - Windows OLE Remote Code Execution Vulnerability
+  [-] CVE-2024-21440 - 8.8 - Microsoft ODBC Driver Remote Code Execution Vulnerability
+  [-] CVE-2024-26162 - 8.8 - Microsoft ODBC Driver Remote Code Execution Vulnerability
+  [-] CVE-2024-26166 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-26165 - 8.8 - Visual Studio Code Elevation of Privilege Vulnerability
+[+] Found 6 vulnerabilites more likely to be exploited
+  [-] CVE-2024-21433 -- Windows Print Spooler Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-21433
+  [-] CVE-2024-21437 -- Windows Graphics Component Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-21437
+  [-] CVE-2024-26160 -- Windows Cloud Files Mini Filter Driver Information Disclosure Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-26160
+  [-] CVE-2024-26170 -- Windows Composite Image File System (CimFS) Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-26170
+  [-] CVE-2024-26182 -- Windows Kernel Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-26182
+  [-] CVE-2024-26185 -- Windows Compressed Folder Tampering Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-26185
