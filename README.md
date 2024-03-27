@@ -135,5 +135,6 @@ We welcome contributions from the security community. If you have a script or so
 - https://privacy.sexy/ - Enforce privacy & security best-practices on Windows, macOS and Linux.
 - https://br0k3nlab.com/resources/zen-of-security-rules/ - The Zen of python does a perfect job succinctly capturing guiding principles for developing via 19 aphorisms. This is the zen of writing security rules, for fostering high-quality, high-efficacy rules as simply as possible.
 - https://github.com/WithSecureLabs/lolcerts - A repository of code signing certificates known to have been leaked or stolen, then abused by threat actors
+- https://learn.microsoft.com/en-us/purview/audit-log-activities - Audit log activities
 ## Reports
 - https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023 - Microsoft Digital Defense Report 2023
