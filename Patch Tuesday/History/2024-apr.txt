@@ -1,0 +1,84 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] April 2024 Security Updates
+[+] Found a total of 157 vulnerabilities
+  [-] 31 Elevation of Privilege Vulnerabilities
+  [-] 29 Security Feature Bypass Vulnerabilities
+  [-] 67 Remote Code Execution Vulnerabilities
+  [-] 13 Information Disclosure Vulnerabilities
+  [-] 7 Denial of Service Vulnerabilities
+  [-] 4 Spoofing Vulnerabilities
+  [-] 5 Edge - Chromium Vulnerabilities
+[+] Found 0 exploited in the wild
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2024-26179 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-26200 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-26205 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-28906 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28908 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28909 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28910 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28911 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28912 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28913 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28914 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28915 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28929 - 8.8 - Microsoft ODBC Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28931 - 8.8 - Microsoft ODBC Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28932 - 8.8 - Microsoft ODBC Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28936 - 8.8 - Microsoft ODBC Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28939 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28942 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28945 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-29043 - 8.8 - Microsoft ODBC Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-29047 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-29050 - 8.4 - Windows Cryptographic Services Remote Code Execution Vulnerability
+  [-] CVE-2024-29988 - 8.8 - SmartScreen Prompt Security Feature Bypass Vulnerability
+  [-] CVE-2024-29990 - 9.0 - Microsoft Azure Kubernetes Service Confidential Container Elevation of Privilege Vulnerability
+  [-] CVE-2024-20678 - 8.8 - Remote Procedure Call Runtime Remote Code Execution Vulnerability
+  [-] CVE-2024-21323 - 8.8 - Microsoft Defender for IoT Remote Code Execution Vulnerability
+  [-] CVE-2024-26180 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-26189 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-26210 - 8.8 - Microsoft WDAC OLE DB Provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-26244 - 8.8 - Microsoft WDAC OLE DB Provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-26214 - 8.8 - Microsoft WDAC SQL Server ODBC Driver Remote Code Execution Vulnerability
+  [-] CVE-2024-26240 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-28925 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-28926 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28927 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28930 - 8.8 - Microsoft ODBC Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28933 - 8.8 - Microsoft ODBC Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28934 - 8.8 - Microsoft ODBC Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28935 - 8.8 - Microsoft ODBC Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28937 - 8.8 - Microsoft ODBC Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28938 - 8.8 - Microsoft ODBC Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28940 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28941 - 8.8 - Microsoft ODBC Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28943 - 8.8 - Microsoft ODBC Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-28944 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-29044 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-29046 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-29048 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-29053 - 8.8 - Microsoft Defender for IoT Remote Code Execution Vulnerability
+  [-] CVE-2024-20670 - 8.1 - Outlook for Windows Spoofing Vulnerability
+  [-] CVE-2024-29982 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-29983 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-29984 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-29985 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-29989 - 8.4 - Azure Monitor Agent Elevation of Privilege Vulnerability
+  [-] CVE-2024-29993 - 8.8 - Azure CycleCloud Elevation of Privilege Vulnerability
+[+] Found 14 vulnerabilites more likely to be exploited
+  [-] CVE-2024-26256 -- libarchive Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-26256
+  [-] CVE-2024-26158 -- Microsoft Install Service Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-26158
+  [-] CVE-2024-28921 -- Secure Boot Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-28921
+  [-] CVE-2024-28903 -- Secure Boot Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-28903
+  [-] CVE-2024-29988 -- SmartScreen Prompt Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-29988
+  [-] CVE-2024-26209 -- Microsoft Local Security Authority Subsystem Service Information Disclosure Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-26209
+  [-] CVE-2024-26218 -- Windows Kernel Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-26218
+  [-] CVE-2024-26241 -- Win32k Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-26241
+  [-] CVE-2024-26234 -- Proxy Driver Spoofing Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-26234
+  [-] CVE-2024-26211 -- Windows Remote Access Connection Manager Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-26211
+  [-] CVE-2024-26212 -- DHCP Server Service Denial of Service Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-26212
+  [-] CVE-2024-26230 -- Windows Telephony Server Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-26230
+  [-] CVE-2024-26239 -- Windows Telephony Server Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-26239
+  [-] CVE-2024-29056 -- Windows Authentication Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-29056
