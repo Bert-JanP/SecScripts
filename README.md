@@ -140,3 +140,4 @@ We welcome contributions from the security community. If you have a script or so
 ## Reports
 - https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023 - Microsoft Digital Defense Report 2023
 - https://services.google.com/fh/files/misc/m-trends-2024.pdf - M-Trends 2024 Special Report
+- https://www.sans.edu/cyber-research/active-directory-tactical-containment-to-curb-domain-dominance/ - Active Directory: Tactical Containment to Curb Domain Dominance
