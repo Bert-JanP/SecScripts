@@ -139,3 +139,4 @@ We welcome contributions from the security community. If you have a script or so
 - https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/strategies-to-monitor-and-prevent-vulnerable-driver-attacks/ba-p/4103985 - Strategies to monitor and prevent vulnerable driver attacks
 ## Reports
 - https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023 - Microsoft Digital Defense Report 2023
+- https://services.google.com/fh/files/misc/m-trends-2024.pdf - M-Trends 2024 Special Report
