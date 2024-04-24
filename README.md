@@ -52,6 +52,10 @@ We welcome contributions from the security community. If you have a script or so
 
 - https://learn.microsoft.com/en-us/connectors/microsoftgraphsecurity/ - The Microsoft Graph Security connector helps to connect different Microsoft and partner security products and services, using a unified schema, to streamline security operations, and improve threat protection, detection, and response capabilities.
 
+### Other
+- https://www.echotrail.io/insights - Look up description, commonality, behavior, and more by searching through our extensive insights database.
+- https://github.com/indetectables-net/toolkit - The essential toolkit for reversing, malware analysis, and cracking
+
 ---
 ## Red Teaming
 - https://github.com/ihebski/DefaultCreds-cheat-sheet/blob/main/DefaultCreds-Cheat-Sheet.csv - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password
@@ -60,6 +64,9 @@ We welcome contributions from the security community. If you have a script or so
 - https://github.com/redcanaryco/atomic-red-team/tree/master - Small and highly portable detection tests based on MITRE's ATT&CK.
 - https://github.com/redcanaryco/invoke-atomicredteam - Invoke-AtomicRedTeam is a PowerShell module to execute tests as defined in the [atomics folder](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) of Red Canary's Atomic Red Team project.
 - https://github.com/tsale/EDR-Telemetry - This project aims to compare and evaluate the telemetry of various EDR products.
+- https://github.com/Orange-Cyberdefense/GOAD - game of active directory
+- https://github.com/RedSiege/GraphStrike - Cobalt Strike HTTPS beaconing over Microsoft Graph API
+- https://github.com/RedByte1337/GraphSpy - Initial Access and Post-Exploitation Tool for AAD and O365 with a browser-based GUI
 
 ### Tools
 - https://stratus-red-team.cloud/ - ☁️ ⚡ Granular, Actionable Adversary Emulation for the Cloud
@@ -137,7 +144,10 @@ We welcome contributions from the security community. If you have a script or so
 - https://github.com/WithSecureLabs/lolcerts - A repository of code signing certificates known to have been leaked or stolen, then abused by threat actors
 - https://learn.microsoft.com/en-us/purview/audit-log-activities - Audit log activities
 - https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/strategies-to-monitor-and-prevent-vulnerable-driver-attacks/ba-p/4103985 - Strategies to monitor and prevent vulnerable driver attacks
+- https://www.xintra.org/labs - XINTRA Labs
+
 ## Reports
 - https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023 - Microsoft Digital Defense Report 2023
 - https://services.google.com/fh/files/misc/m-trends-2024.pdf - M-Trends 2024 Special Report
 - https://www.sans.edu/cyber-research/active-directory-tactical-containment-to-curb-domain-dominance/ - Active Directory: Tactical Containment to Curb Domain Dominance
+- https://www.microsoft.com/en-us/security/blog/2024/04/23/new-microsoft-incident-response-guide-helps-simplify-cyberthreat-investigations/ - New Microsoft Incident Response guide helps simplify cyberthreat investigations
