@@ -87,6 +87,7 @@ We welcome contributions from the security community. If you have a script or so
 ---
 ## Detection Engineering
 - https://github.com/infosecB/awesome-detection-engineering - A list of useful Detection Engineering-related resources.
+- https://github.com/elastic/detection-rules - Elastic Detections and Alerts
 
 ### Standardized Detection Formats
 - https://github.com/SigmaHQ/sigma - Main Sigma Rule Repository
