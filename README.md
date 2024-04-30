@@ -146,6 +146,7 @@ We welcome contributions from the security community. If you have a script or so
 - https://learn.microsoft.com/en-us/purview/audit-log-activities - Audit log activities
 - https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/strategies-to-monitor-and-prevent-vulnerable-driver-attacks/ba-p/4103985 - Strategies to monitor and prevent vulnerable driver attacks
 - https://www.xintra.org/labs - XINTRA Labs
+- https://login.microsoftonline.com/error - EntraID Error codes
 
 ## Reports
 - https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023 - Microsoft Digital Defense Report 2023
