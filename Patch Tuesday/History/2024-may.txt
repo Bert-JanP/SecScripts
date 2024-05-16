@@ -1,0 +1,35 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] May 2024 Security Updates
+[+] Found a total of 68 vulnerabilities
+  [-] 17 Elevation of Privilege Vulnerabilities
+  [-] 2 Security Feature Bypass Vulnerabilities
+  [-] 27 Remote Code Execution Vulnerabilities
+  [-] 7 Information Disclosure Vulnerabilities
+  [-] 3 Denial of Service Vulnerabilities
+  [-] 4 Spoofing Vulnerabilities
+  [-] 7 Edge - Chromium Vulnerabilities
+[+] Found 2 exploited in the wild
+  [-] CVE-2024-30040 - 8.8 - Windows MSHTML Platform Security Feature Bypass Vulnerability
+  [-] CVE-2024-30051 - 7.8 - Windows DWM Core Library Elevation of Privilege Vulnerability
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2024-32002 - 9.0 - GitHub:  CVE-2024-32002 Recursive clones on case-insensitive filesystems that support symlinks are susceptible to Remote Code Execution
+  [-] CVE-2024-30006 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-30007 - 8.8 - Microsoft Brokering File System Elevation of Privilege Vulnerability
+  [-] CVE-2024-30009 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-30010 - 8.8 - Windows Hyper-V Remote Code Execution Vulnerability
+  [-] CVE-2024-30017 - 8.8 - Windows Hyper-V Remote Code Execution Vulnerability
+  [-] CVE-2024-30020 - 8.1 - Windows Cryptographic Services Remote Code Execution Vulnerability
+  [-] CVE-2024-30040 - 8.8 - Windows MSHTML Platform Security Feature Bypass Vulnerability
+  [-] CVE-2024-32004 - 8.1 - GitHub: CVE-2024-32004 Remote Code Execution while cloning special-crafted local repositories
+[+] Found 10 vulnerabilites more likely to be exploited
+  [-] CVE-2024-29996 -- Windows Common Log File System Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-29996
+  [-] CVE-2024-30044 -- Microsoft SharePoint Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-30044
+  [-] CVE-2024-30050 -- Windows Mark of the Web Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-30050
+  [-] CVE-2024-30025 -- Windows Common Log File System Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-30025
+  [-] CVE-2024-30032 -- Windows DWM Core Library Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-30032
+  [-] CVE-2024-30034 -- Windows Cloud Files Mini Filter Driver Information Disclosure Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-30034
+  [-] CVE-2024-30035 -- Windows DWM Core Library Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-30035
+  [-] CVE-2024-30037 -- Windows Common Log File System Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-30037
+  [-] CVE-2024-30038 -- Win32k Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-30038
+  [-] CVE-2024-30049 -- Windows Win32 Kernel Subsystem Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-30049
