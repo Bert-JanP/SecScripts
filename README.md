@@ -117,10 +117,13 @@ We welcome contributions from the security community. If you have a script or so
 - https://github.com/LearningKijo/KQL - Threat Hunting query in Microsoft 365 Defender, XDR. Provide out-of-the-box KQL hunting queries - App, Email, Identity and Endpoint.
 - https://github.com/KostasKoutrou/KQL/tree/main - KQL Queries for Advanced Hunting / Log Analytics
 - https://identityandsecuritydotcom.files.wordpress.com/2020/05/kql_internals_sentinel.pdf - Kusto Query Internals: Hunting TTPs with Azure Sentinel
+- https://github.com/samilamppu/Sentinel-queries - Sentinel-queries
+- https://analyticsrules.exchange/ - Microsoft Sentinel Analytics Rules
 ---
-## Incident Response
 
+## Incident Response
 - https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/documents/MS-IR-Playbook-Final.pdf%20 - Navigating the Maze of Incident Response
+- https://training.13cubed.com/downloads - 13Cubed IR Guides
 
 ### Google Workspace
 - https://github.com/invictus-ir/ALFA - ALFA stands for Automated Audit Log Forensic Analysis for Google Workspace. You can use this tool to acquire all Google Workspace audit logs and to perform automated forensic analysis on the audit logs using statistics and the MITRE ATT&CK Cloud Framework
