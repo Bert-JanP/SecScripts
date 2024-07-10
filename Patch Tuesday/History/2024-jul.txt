@@ -1,0 +1,99 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] July 2024 Security Updates
+[+] Found a total of 155 vulnerabilities
+  [-] 26 Elevation of Privilege Vulnerabilities
+  [-] 24 Security Feature Bypass Vulnerabilities
+  [-] 59 Remote Code Execution Vulnerabilities
+  [-] 9 Information Disclosure Vulnerabilities
+  [-] 17 Denial of Service Vulnerabilities
+  [-] 7 Spoofing Vulnerabilities
+  [-] 0 Edge - Chromium Vulnerabilities
+[+] Found 2 exploited in the wild
+  [-] CVE-2024-38080 - 7.8 - Windows Hyper-V Elevation of Privilege Vulnerability
+  [-] CVE-2024-38112 - 7.5 - Windows MSHTML Platform Spoofing Vulnerability
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2017-17522 - 8.8 - None
+  [-] CVE-2024-21417 - 8.8 - Windows Text Services Framework Elevation of Privilege Vulnerability
+  [-] CVE-2024-28899 - 8.8 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-35264 - 8.1 - .NET and Visual Studio Remote Code Execution Vulnerability
+  [-] CVE-2024-38088 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-38087 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-21332 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-21333 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-21335 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-21373 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-21398 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-21414 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-21415 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-21428 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37318 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37332 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37331 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37969 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-37970 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-37974 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-37981 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-37986 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-37987 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-38060 - 8.8 - Windows Imaging Component Remote Code Execution Vulnerability
+  [-] CVE-2024-38077 - 9.8 - Windows Remote Desktop Licensing Service Remote Code Execution Vulnerability
+  [-] CVE-2024-38104 - 8.8 - Windows Fax Service Remote Code Execution Vulnerability
+  [-] CVE-2024-30013 - 8.8 - Windows MultiPoint Services Remote Code Execution Vulnerability
+  [-] CVE-2024-35271 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-35272 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-20701 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-21303 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-21308 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-21317 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-21331 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-21425 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37319 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37320 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37321 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37322 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37323 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37324 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-21449 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37326 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37327 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37328 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37329 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37330 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37334 - 8.8 - Microsoft OLE DB Driver for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-37333 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37336 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-28928 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-35256 - 8.8 - SQL Server Native Client OLE DB Provider Remote Code Execution Vulnerability
+  [-] CVE-2024-37971 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-37972 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-37973 - 8.4 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-37975 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-37977 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-37978 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-37984 - 8.4 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-37988 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-37989 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-38010 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-38011 - 8.0 - Secure Boot Security Feature Bypass Vulnerability
+  [-] CVE-2024-38021 - 8.8 - Microsoft Office Remote Code Execution Vulnerability
+  [-] CVE-2024-38053 - 8.8 - Windows Layer-2 Bridge Network Driver Remote Code Execution Vulnerability
+  [-] CVE-2024-38074 - 9.8 - Windows Remote Desktop Licensing Service Remote Code Execution Vulnerability
+  [-] CVE-2024-38076 - 9.8 - Windows Remote Desktop Licensing Service Remote Code Execution Vulnerability
+  [-] CVE-2024-38089 - 9.1 - Microsoft Defender for IoT Elevation of Privilege Vulnerability
+  [-] CVE-2024-38092 - 8.8 - Azure CycleCloud Elevation of Privilege Vulnerability
+[+] Found 14 vulnerabilites more likely to be exploited
+  [-] CVE-2024-38023 -- Microsoft SharePoint Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38023
+  [-] CVE-2024-38024 -- Microsoft SharePoint Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38024
+  [-] CVE-2024-38054 -- Kernel Streaming WOW Thunk Service Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38054
+  [-] CVE-2024-38059 -- Win32k Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38059
+  [-] CVE-2024-38060 -- Windows Imaging Component Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38060
+  [-] CVE-2024-38085 -- Windows Graphics Component Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38085
+  [-] CVE-2024-38100 -- Windows File Explorer Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38100
+  [-] CVE-2024-38021 -- Microsoft Office Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38021
+  [-] CVE-2024-38052 -- Kernel Streaming WOW Thunk Service Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38052
+  [-] CVE-2024-38066 -- Windows Win32k Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38066
+  [-] CVE-2024-38079 -- Windows Graphics Component Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38079
+  [-] CVE-2024-38094 -- Microsoft SharePoint Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38094
+  [-] CVE-2024-38099 -- Windows Remote Desktop Licensing Service Denial of Service Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38099
+  [-] CVE-2024-39684 -- Github: CVE-2024-39684 TenCent RapidJSON Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-39684
