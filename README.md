@@ -150,6 +150,7 @@ We welcome contributions from the security community. If you have a script or so
 - https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/strategies-to-monitor-and-prevent-vulnerable-driver-attacks/ba-p/4103985 - Strategies to monitor and prevent vulnerable driver attacks
 - https://www.xintra.org/labs - XINTRA Labs
 - https://login.microsoftonline.com/error - EntraID Error codes
+- https://github.com/DebugPrivilege/RandomizedProjects/blob/64d42b922906d32f2c0ba55269f815205d5b464b/Defender%20for%20Endpoint/ETW%20Mapping/README.md - ETW Providers Defender For Endpoint
 
 ## Reports
 - https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023 - Microsoft Digital Defense Report 2023
