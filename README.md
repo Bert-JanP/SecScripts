@@ -119,6 +119,8 @@ We welcome contributions from the security community. If you have a script or so
 - https://identityandsecuritydotcom.files.wordpress.com/2020/05/kql_internals_sentinel.pdf - Kusto Query Internals: Hunting TTPs with Azure Sentinel
 - https://github.com/samilamppu/Sentinel-queries - Sentinel-queries
 - https://analyticsrules.exchange/ - Microsoft Sentinel Analytics Rules
+- https://github.com/SlimKQL/Hunting-Queries-Detection-Rules - KQL Queries. Microsoft Defender, Microsoft Sentinel
+- https://github.com/m4nbat/KustQueryLanguage_kql - Cyber Defence related kusto queries for use in Azure Sentinel and Defender advanced hunting
 ---
 
 ## Incident Response
