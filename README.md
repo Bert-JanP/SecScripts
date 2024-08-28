@@ -121,6 +121,7 @@ We welcome contributions from the security community. If you have a script or so
 - https://analyticsrules.exchange/ - Microsoft Sentinel Analytics Rules
 - https://github.com/SlimKQL/Hunting-Queries-Detection-Rules - KQL Queries. Microsoft Defender, Microsoft Sentinel
 - https://github.com/m4nbat/KustQueryLanguage_kql - Cyber Defence related kusto queries for use in Azure Sentinel and Defender advanced hunting
+- https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-expert-training - Advanced Hunting Expert Training
 ---
 
 ## Incident Response
@@ -159,3 +160,4 @@ We welcome contributions from the security community. If you have a script or so
 - https://services.google.com/fh/files/misc/m-trends-2024.pdf - M-Trends 2024 Special Report
 - https://www.sans.edu/cyber-research/active-directory-tactical-containment-to-curb-domain-dominance/ - Active Directory: Tactical Containment to Curb Domain Dominance
 - https://www.microsoft.com/en-us/security/blog/2024/04/23/new-microsoft-incident-response-guide-helps-simplify-cyberthreat-investigations/ - New Microsoft Incident Response guide helps simplify cyberthreat investigations
+- cthfm.gitbook.io - Cloud Threat Hunting Field Manual
