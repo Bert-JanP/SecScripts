@@ -1,0 +1,61 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] September 2024 Security Updates
+[+] Found a total of 79 vulnerabilities
+  [-] 30 Elevation of Privilege Vulnerabilities
+  [-] 4 Security Feature Bypass Vulnerabilities
+  [-] 23 Remote Code Execution Vulnerabilities
+  [-] 11 Information Disclosure Vulnerabilities
+  [-] 8 Denial of Service Vulnerabilities
+  [-] 3 Spoofing Vulnerabilities
+  [-] 0 Edge - Chromium Vulnerabilities
+[+] Found 4 exploited in the wild
+  [-] CVE-2024-38014 - 7.8 - Windows Installer Elevation of Privilege Vulnerability
+  [-] CVE-2024-38217 - 5.4 - Windows Mark of the Web Security Feature Bypass Vulnerability
+  [-] CVE-2024-38226 - 7.3 - Microsoft Publisher Security Feature Bypass Vulnerability
+  [-] CVE-2024-43491 - 9.8 - Microsoft Windows Update Remote Code Execution Vulnerability
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2024-37338 - 8.8 - Microsoft SQL Server Native Scoring Remote Code Execution Vulnerability
+  [-] CVE-2024-37335 - 8.8 - Microsoft SQL Server Native Scoring Remote Code Execution Vulnerability
+  [-] CVE-2024-37340 - 8.8 - Microsoft SQL Server Native Scoring Remote Code Execution Vulnerability
+  [-] CVE-2024-37339 - 8.8 - Microsoft SQL Server Native Scoring Remote Code Execution Vulnerability
+  [-] CVE-2024-26186 - 8.8 - Microsoft SQL Server Native Scoring Remote Code Execution Vulnerability
+  [-] CVE-2024-26191 - 8.8 - Microsoft SQL Server Native Scoring Remote Code Execution Vulnerability
+  [-] CVE-2024-38018 - 8.8 - Microsoft SharePoint Server Remote Code Execution Vulnerability
+  [-] CVE-2024-38216 - 8.2 - Azure Stack Hub Elevation of Privilege Vulnerability
+  [-] CVE-2024-38220 - 9.0 - Azure Stack Hub Elevation of Privilege Vulnerability
+  [-] CVE-2024-38240 - 8.1 - Windows Remote Access Connection Manager Elevation of Privilege Vulnerability
+  [-] CVE-2024-37965 - 8.8 - Microsoft SQL Server Elevation of Privilege Vulnerability
+  [-] CVE-2024-37341 - 8.8 - Microsoft SQL Server Elevation of Privilege Vulnerability
+  [-] CVE-2024-38225 - 8.8 - Microsoft Dynamics 365 Business Central Elevation of Privilege Vulnerability
+  [-] CVE-2024-38259 - 8.8 - Microsoft Management Console Remote Code Execution Vulnerability
+  [-] CVE-2024-38260 - 8.8 - Windows Remote Desktop Licensing Service Remote Code Execution Vulnerability
+  [-] CVE-2024-21416 - 8.1 - Windows TCP/IP Remote Code Execution Vulnerability
+  [-] CVE-2024-38045 - 8.1 - Windows TCP/IP Remote Code Execution Vulnerability
+  [-] CVE-2024-43455 - 8.8 - Windows Remote Desktop Licensing Service Spoofing Vulnerability
+  [-] CVE-2024-43461 - 8.8 - Windows MSHTML Platform Spoofing Vulnerability
+  [-] CVE-2024-43469 - 8.8 - Azure CycleCloud Remote Code Execution Vulnerability
+  [-] CVE-2024-43479 - 8.5 - Microsoft Power Automate Desktop Remote Code Execution Vulnerability
+  [-] CVE-2024-43491 - 9.8 - Microsoft Windows Update Remote Code Execution Vulnerability
+  [-] CVE-2024-38194 - 8.4 - Azure Web Apps Elevation of Privilege Vulnerability
+  [-] CVE-2024-37980 - 8.8 - Microsoft SQL Server Elevation of Privilege Vulnerability
+[+] Found 19 vulnerabilites more likely to be exploited
+  [-] CVE-2024-38018 -- Microsoft SharePoint Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38018
+  [-] CVE-2024-38241 -- Kernel Streaming Service Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38241
+  [-] CVE-2024-38242 -- Kernel Streaming Service Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38242
+  [-] CVE-2024-38249 -- Windows Graphics Component Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38249
+  [-] CVE-2024-38252 -- Windows Win32 Kernel Subsystem Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38252
+  [-] CVE-2024-38253 -- Windows Win32 Kernel Subsystem Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38253
+  [-] CVE-2024-43464 -- Microsoft SharePoint Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-43464
+  [-] CVE-2024-38227 -- Microsoft SharePoint Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38227
+  [-] CVE-2024-38228 -- Microsoft SharePoint Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38228
+  [-] CVE-2024-38237 -- Kernel Streaming WOW Thunk Service Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38237
+  [-] CVE-2024-38238 -- Kernel Streaming Service Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38238
+  [-] CVE-2024-38243 -- Kernel Streaming Service Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38243
+  [-] CVE-2024-38244 -- Kernel Streaming Service Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38244
+  [-] CVE-2024-38245 -- Kernel Streaming Service Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38245
+  [-] CVE-2024-38246 -- Win32k Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38246
+  [-] CVE-2024-38247 -- Windows Graphics Component Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38247
+  [-] CVE-2024-43457 -- Windows Setup and Deployment Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-43457
+  [-] CVE-2024-43461 -- Windows MSHTML Platform Spoofing Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-43461
+  [-] CVE-2024-43487 -- Windows Mark of the Web Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-43487
