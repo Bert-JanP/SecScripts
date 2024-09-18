@@ -1,20 +1,60 @@
 [+] Microsoft Patch Tuesday Stats
 [+] https://github.com/Immersive-Labs-Sec/msrc-api
 [+] September 2024 Security Updates
-[+] Found a total of 79 vulnerabilities
-  [-] 30 Elevation of Privilege Vulnerabilities
+[+] Found a total of 529 vulnerabilities
+  [-] 32 Elevation of Privilege Vulnerabilities
   [-] 4 Security Feature Bypass Vulnerabilities
   [-] 23 Remote Code Execution Vulnerabilities
   [-] 11 Information Disclosure Vulnerabilities
   [-] 8 Denial of Service Vulnerabilities
   [-] 3 Spoofing Vulnerabilities
-  [-] 0 Edge - Chromium Vulnerabilities
-[+] Found 4 exploited in the wild
+  [-] 9 Edge - Chromium Vulnerabilities
+[+] Found 5 exploited in the wild
   [-] CVE-2024-38014 - 7.8 - Windows Installer Elevation of Privilege Vulnerability
   [-] CVE-2024-38217 - 5.4 - Windows Mark of the Web Security Feature Bypass Vulnerability
   [-] CVE-2024-38226 - 7.3 - Microsoft Publisher Security Feature Bypass Vulnerability
+  [-] CVE-2024-43461 - 8.8 - Windows MSHTML Platform Spoofing Vulnerability
   [-] CVE-2024-43491 - 9.8 - Microsoft Windows Update Remote Code Execution Vulnerability
 [+] Highest Rated Vulnerabilities
+  [-] CVE-2017-17522 - 8.8 - None
+  [-] CVE-2022-37434 - 9.8 - None
+  [-] CVE-2023-45853 - 9.8 - None
+  [-] CVE-2024-2398 - 8.6 - None
+  [-] CVE-2022-1292 - 9.8 - None
+  [-] CVE-2022-1996 - 9.1 - None
+  [-] CVE-2024-41110 - 9.9 - None
+  [-] CVE-2023-43804 - 8.1 - None
+  [-] CVE-2024-5535 - 9.1 - None
+  [-] CVE-2022-23806 - 9.1 - None
+  [-] CVE-2024-41671 - 8.3 - None
+  [-] CVE-2021-3750 - 8.2 - None
+  [-] CVE-2021-4206 - 8.2 - None
+  [-] CVE-2021-4207 - 8.2 - None
+  [-] CVE-2022-35414 - 8.8 - None
+  [-] CVE-2022-36648 - 10.0 - None
+  [-] CVE-2022-23639 - 8.1 - None
+  [-] CVE-2024-37371 - 9.1 - None
+  [-] CVE-2024-24474 - 8.8 - None
+  [-] CVE-2024-27053 - 9.1 - None
+  [-] CVE-2022-46146 - 8.8 - None
+  [-] CVE-2022-31627 - 9.8 - None
+  [-] CVE-2022-46175 - 8.8 - None
+  [-] CVE-2021-32714 - 9.1 - None
+  [-] CVE-2024-45490 - 9.8 - None
+  [-] CVE-2024-45492 - 9.8 - None
+  [-] CVE-2024-39331 - 9.8 - None
+  [-] CVE-2024-3727 - 8.3 - None
+  [-] CVE-2021-3929 - 8.2 - None
+  [-] CVE-2022-3872 - 8.6 - None
+  [-] CVE-2024-27322 - 8.8 - None
+  [-] CVE-2024-42461 - 9.1 - None
+  [-] CVE-2023-26484 - 8.2 - None
+  [-] CVE-2020-25576 - 9.8 - None
+  [-] CVE-2024-37407 - 9.1 - None
+  [-] CVE-2024-1753 - 8.6 - None
+  [-] CVE-2021-45707 - 9.8 - None
+  [-] CVE-2017-14623 - 8.1 - None
+  [-] CVE-2024-45491 - 9.8 - None
   [-] CVE-2024-37338 - 8.8 - Microsoft SQL Server Native Scoring Remote Code Execution Vulnerability
   [-] CVE-2024-37335 - 8.8 - Microsoft SQL Server Native Scoring Remote Code Execution Vulnerability
   [-] CVE-2024-37340 - 8.8 - Microsoft SQL Server Native Scoring Remote Code Execution Vulnerability
@@ -38,8 +78,10 @@
   [-] CVE-2024-43479 - 8.5 - Microsoft Power Automate Desktop Remote Code Execution Vulnerability
   [-] CVE-2024-43491 - 9.8 - Microsoft Windows Update Remote Code Execution Vulnerability
   [-] CVE-2024-38194 - 8.4 - Azure Web Apps Elevation of Privilege Vulnerability
+  [-] CVE-2024-38183 - 8.8 - GroupMe Elevation of Privilege Vulnerability
+  [-] CVE-2024-43460 - 8.1 - Dynamics 365 Business Central Elevation of Privilege Vulnerability
   [-] CVE-2024-37980 - 8.8 - Microsoft SQL Server Elevation of Privilege Vulnerability
-[+] Found 19 vulnerabilites more likely to be exploited
+[+] Found 18 vulnerabilites more likely to be exploited
   [-] CVE-2024-38018 -- Microsoft SharePoint Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38018
   [-] CVE-2024-38241 -- Kernel Streaming Service Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38241
   [-] CVE-2024-38242 -- Kernel Streaming Service Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38242
@@ -57,5 +99,4 @@
   [-] CVE-2024-38246 -- Win32k Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38246
   [-] CVE-2024-38247 -- Windows Graphics Component Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-38247
   [-] CVE-2024-43457 -- Windows Setup and Deployment Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-43457
-  [-] CVE-2024-43461 -- Windows MSHTML Platform Spoofing Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-43461
   [-] CVE-2024-43487 -- Windows Mark of the Web Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-43487
