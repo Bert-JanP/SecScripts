@@ -1,0 +1,56 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] October 2024 Security Updates
+[+] Found a total of 165 vulnerabilities
+  [-] 28 Elevation of Privilege Vulnerabilities
+  [-] 7 Security Feature Bypass Vulnerabilities
+  [-] 43 Remote Code Execution Vulnerabilities
+  [-] 6 Information Disclosure Vulnerabilities
+  [-] 26 Denial of Service Vulnerabilities
+  [-] 7 Spoofing Vulnerabilities
+  [-] 3 Edge - Chromium Vulnerabilities
+[+] Found 2 exploited in the wild
+  [-] CVE-2024-43573 - 6.5 - Windows MSHTML Platform Spoofing Vulnerability
+  [-] CVE-2024-43572 - 7.8 - Microsoft Management Console Remote Code Execution Vulnerability
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2024-38179 - 8.8 - Azure Stack Hyperconverged Infrastructure (HCI) Elevation of Privilege Vulnerability
+  [-] CVE-2024-38229 - 8.1 - .NET and Visual Studio Remote Code Execution Vulnerability
+  [-] CVE-2024-43518 - 8.8 - Windows Telephony Server Remote Code Execution Vulnerability
+  [-] CVE-2024-43519 - 8.8 - Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+  [-] CVE-2024-43532 - 8.8 - Remote Registry Service Elevation of Privilege Vulnerability
+  [-] CVE-2024-43533 - 8.8 - Remote Desktop Client Remote Code Execution Vulnerability
+  [-] CVE-2024-6197 - 8.8 - Open Source Curl Remote Code Execution Vulnerability
+  [-] CVE-2024-43608 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-43607 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-38124 - 9.0 - Windows Netlogon Elevation of Privilege Vulnerability
+  [-] CVE-2024-38265 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-43453 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-38212 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-30092 - 8.0 - Windows Hyper-V Remote Code Execution Vulnerability
+  [-] CVE-2024-43497 - 8.4 - DeepSpeed Remote Code Execution Vulnerability
+  [-] CVE-2024-43468 - 9.8 - Microsoft Configuration Manager Remote Code Execution Vulnerability
+  [-] CVE-2024-43517 - 8.8 - Microsoft ActiveX Data Objects Remote Code Execution Vulnerability
+  [-] CVE-2024-43549 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-43564 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-43574 - 8.3 - Microsoft Speech Application Programming Interface (SAPI) Remote Code Execution Vulnerability
+  [-] CVE-2024-43582 - 8.1 - Remote Desktop Protocol Server Remote Code Execution Vulnerability
+  [-] CVE-2024-43589 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-43591 - 8.7 - Azure Command Line Integration (CLI) Elevation of Privilege Vulnerability
+  [-] CVE-2024-43592 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-43593 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-43599 - 8.8 - Remote Desktop Client Remote Code Execution Vulnerability
+  [-] CVE-2024-43611 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-43488 - 8.8 - Visual Studio Code extension for Arduino Remote Code Execution Vulnerability
+  [-] CVE-2017-17522 - 8.8 - None
+  [-] CVE-2024-2398 - 8.6 - None
+  [-] CVE-2023-29402 - 9.8 - None
+  [-] CVE-2023-29404 - 9.8 - None
+[+] Found 8 vulnerabilites more likely to be exploited
+  [-] CVE-2024-43502 -- Windows Kernel Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-43502
+  [-] CVE-2024-43581 -- Microsoft OpenSSH for Windows Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-43581
+  [-] CVE-2024-43609 -- Microsoft Office Spoofing Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-43609
+  [-] CVE-2024-43615 -- Microsoft OpenSSH for Windows Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-43615
+  [-] CVE-2024-43509 -- Windows Graphics Component Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-43509
+  [-] CVE-2024-43556 -- Windows Graphics Component Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-43556
+  [-] CVE-2024-43560 -- Microsoft Windows Storage Port Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-43560
+  [-] CVE-2024-43583 -- Winlogon Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-43583
