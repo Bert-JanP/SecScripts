@@ -44,6 +44,7 @@ We welcome contributions from the security community. If you have a script or so
 
 ### Sentinel
 - https://github.com/Azure/Azure-Sentinel-Notebooks - Interactive Azure Sentinel Notebooks provides security insights and actions to investigate anomalies and hunt for malicious behaviors. 
+- https://github.com/markolauren/sentinel/tree/main/tableCreator%20tool - 💡 Tool to capture the schema of existing Sentinel table, and create new table with same schema!
 
 #### Sentinel Blogs
 - https://medium.com/@truvis.thornton/microsoft-azure-sentinel-adding-tlps-traffic-light-patterns-to-incidents-alerts-and-analytics-f05e0b2f171e - Microsoft Azure Sentinel: Adding TLPs (Traffic Light Protocol) to Incidents, Alerts and Analytics Rules.
