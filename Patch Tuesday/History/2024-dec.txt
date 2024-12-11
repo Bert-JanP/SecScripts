@@ -1,0 +1,58 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] December 2024 Security Updates
+[+] Found a total of 260 vulnerabilities
+  [-] 27 Elevation of Privilege Vulnerabilities
+  [-] 0 Security Feature Bypass Vulnerabilities
+  [-] 31 Remote Code Execution Vulnerabilities
+  [-] 7 Information Disclosure Vulnerabilities
+  [-] 5 Denial of Service Vulnerabilities
+  [-] 1 Spoofing Vulnerabilities
+  [-] 2 Edge - Chromium Vulnerabilities
+[+] Found 1 exploited in the wild
+  [-] CVE-2024-49138 - 7.8 - Windows Common Log File System Driver Elevation of Privilege Vulnerability
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2024-38473 - 8.1 - None
+  [-] CVE-2024-2398 - 8.6 - None
+  [-] CVE-2024-8932 - 9.8 - None
+  [-] CVE-2024-11236 - 9.8 - None
+  [-] CVE-2024-3727 - 8.3 - None
+  [-] CVE-2023-26484 - 8.2 - None
+  [-] CVE-2024-48949 - 9.1 - None
+  [-] CVE-2024-1545 - 8.8 - None
+  [-] CVE-2024-2881 - 8.8 - None
+  [-] CVE-2024-11233 - 8.2 - None
+  [-] CVE-2024-49057 - 8.1 - Microsoft Defender for Endpoint on Android Spoofing Vulnerability
+  [-] CVE-2024-49068 - 8.2 - Microsoft SharePoint Elevation of Privilege Vulnerability
+  [-] CVE-2024-49085 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-49086 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-49093 - 8.8 - Windows Resilient File System (ReFS) Elevation of Privilege Vulnerability
+  [-] CVE-2024-49102 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-49104 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-49106 - 8.1 - Windows Remote Desktop Services Remote Code Execution Vulnerability
+  [-] CVE-2024-49108 - 8.1 - Windows Remote Desktop Services Remote Code Execution Vulnerability
+  [-] CVE-2024-49115 - 8.1 - Windows Remote Desktop Services Remote Code Execution Vulnerability
+  [-] CVE-2024-49117 - 8.8 - Windows Hyper-V Remote Code Execution Vulnerability
+  [-] CVE-2024-49119 - 8.1 - Windows Remote Desktop Services Remote Code Execution Vulnerability
+  [-] CVE-2024-49120 - 8.1 - Windows Remote Desktop Services Remote Code Execution Vulnerability
+  [-] CVE-2024-49122 - 8.1 - Microsoft Message Queuing (MSMQ) Remote Code Execution Vulnerability
+  [-] CVE-2024-49123 - 8.1 - Windows Remote Desktop Services Remote Code Execution Vulnerability
+  [-] CVE-2024-49124 - 8.1 - Lightweight Directory Access Protocol (LDAP) Client Remote Code Execution Vulnerability
+  [-] CVE-2024-49125 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2024-49126 - 8.1 - Windows Local Security Authority Subsystem Service (LSASS) Remote Code Execution Vulnerability
+  [-] CVE-2024-49132 - 8.1 - Windows Remote Desktop Services Remote Code Execution Vulnerability
+  [-] CVE-2024-49063 - 8.4 - Microsoft/Muzic Remote Code Execution Vulnerability
+  [-] CVE-2024-49080 - 8.8 - Windows IP Routing Management Snapin Remote Code Execution Vulnerability
+  [-] CVE-2024-49116 - 8.1 - Windows Remote Desktop Services Remote Code Execution Vulnerability
+  [-] CVE-2024-49118 - 8.1 - Microsoft Message Queuing (MSMQ) Remote Code Execution Vulnerability
+  [-] CVE-2024-49127 - 8.1 - Windows Lightweight Directory Access Protocol (LDAP) Remote Code Execution Vulnerability
+  [-] CVE-2024-49128 - 8.1 - Windows Remote Desktop Services Remote Code Execution Vulnerability
+  [-] CVE-2024-49112 - 9.8 - Windows Lightweight Directory Access Protocol (LDAP) Remote Code Execution Vulnerability
+  [-] CVE-2024-49105 - 8.4 - Remote Desktop Client Remote Code Execution Vulnerability
+[+] Found 6 vulnerabilites more likely to be exploited
+  [-] CVE-2024-49070 -- Microsoft SharePoint Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-49070
+  [-] CVE-2024-49093 -- Windows Resilient File System (ReFS) Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-49093
+  [-] CVE-2024-49122 -- Microsoft Message Queuing (MSMQ) Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-49122
+  [-] CVE-2024-49088 -- Windows Common Log File System Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-49088
+  [-] CVE-2024-49090 -- Windows Common Log File System Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-49090
+  [-] CVE-2024-49114 -- Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2024-49114
