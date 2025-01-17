@@ -1,0 +1,83 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] January 2025 Security Updates
+[+] Found a total of 211 vulnerabilities
+  [-] 41 Elevation of Privilege Vulnerabilities
+  [-] 14 Security Feature Bypass Vulnerabilities
+  [-] 58 Remote Code Execution Vulnerabilities
+  [-] 24 Information Disclosure Vulnerabilities
+  [-] 20 Denial of Service Vulnerabilities
+  [-] 5 Spoofing Vulnerabilities
+  [-] 1 Edge - Chromium Vulnerabilities
+[+] Found 3 exploited in the wild
+  [-] CVE-2025-21333 - 7.8 - Windows Hyper-V NT Kernel Integration VSP Elevation of Privilege Vulnerability
+  [-] CVE-2025-21334 - 7.8 - Windows Hyper-V NT Kernel Integration VSP Elevation of Privilege Vulnerability
+  [-] CVE-2025-21335 - 7.8 - Windows Hyper-V NT Kernel Integration VSP Elevation of Privilege Vulnerability
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2025-21411 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21413 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21233 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21236 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21237 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21239 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21241 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21243 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21244 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21248 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21252 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21266 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21282 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21291 - 8.8 - Windows Direct Show Remote Code Execution Vulnerability
+  [-] CVE-2025-21293 - 8.8 - Active Directory Domain Services Elevation of Privilege Vulnerability
+  [-] CVE-2025-21294 - 8.1 - Microsoft Digest Authentication Remote Code Execution Vulnerability
+  [-] CVE-2025-21295 - 8.1 - SPNEGO Extended Negotiation (NEGOEX) Security Mechanism Remote Code Execution Vulnerability
+  [-] CVE-2025-21297 - 8.1 - Windows Remote Desktop Services Remote Code Execution Vulnerability
+  [-] CVE-2025-21298 - 9.8 - Windows OLE Remote Code Execution Vulnerability
+  [-] CVE-2025-21302 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21303 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21306 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21309 - 8.1 - Windows Remote Desktop Services Remote Code Execution Vulnerability
+  [-] CVE-2025-21176 - 8.8 - .NET, .NET Framework, and Visual Studio Remote Code Execution Vulnerability
+  [-] CVE-2025-21178 - 8.8 - Visual Studio Remote Code Execution Vulnerability
+  [-] CVE-2025-21224 - 8.1 - Windows Line Printer Daemon (LPD) Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21273 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21286 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21292 - 8.8 - Windows Search Service Elevation of Privilege Vulnerability
+  [-] CVE-2025-21305 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21307 - 9.8 - Windows Reliable Multicast Transport Driver (RMCAST) Remote Code Execution Vulnerability
+  [-] CVE-2025-21339 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21380 - 8.8 - Azure Marketplace SaaS Resources Information Disclosure Vulnerability
+  [-] CVE-2025-21385 - 8.8 - Microsoft Purview Information Disclosure Vulnerability
+  [-] CVE-2025-21311 - 9.8 - Windows NTLM V1 Elevation of Privilege Vulnerability
+  [-] CVE-2025-21246 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21417 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21250 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21240 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21238 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21223 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21409 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21245 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2017-17522 - 8.8 - None
+  [-] CVE-2024-3727 - 8.3 - None
+  [-] CVE-2024-52338 - 9.8 - None
+  [-] CVE-2024-45337 - 9.1 - None
+  [-] CVE-2025-21362 - 8.4 - Microsoft Excel Remote Code Execution Vulnerability
+  [-] CVE-2025-21354 - 8.4 - Microsoft Excel Remote Code Execution Vulnerability
+[+] Found 17 vulnerabilites more likely to be exploited
+  [-] CVE-2025-21210 -- Windows BitLocker Information Disclosure Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21210
+  [-] CVE-2025-21268 -- MapUrlToZone Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21268
+  [-] CVE-2025-21269 -- Windows HTML Platforms Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21269
+  [-] CVE-2025-21298 -- Windows OLE Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21298
+  [-] CVE-2025-21299 -- Windows Kerberos Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21299
+  [-] CVE-2025-21309 -- Windows Remote Desktop Services Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21309
+  [-] CVE-2025-21314 -- Windows SmartScreen Spoofing Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21314
+  [-] CVE-2025-21315 -- Microsoft Brokering File System Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21315
+  [-] CVE-2025-21364 -- Microsoft Excel Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21364
+  [-] CVE-2025-21365 -- Microsoft Office Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21365
+  [-] CVE-2025-21219 -- MapUrlToZone Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21219
+  [-] CVE-2025-21329 -- MapUrlToZone Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21329
+  [-] CVE-2025-21328 -- MapUrlToZone Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21328
+  [-] CVE-2025-21189 -- MapUrlToZone Security Feature Bypass Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21189
+  [-] CVE-2025-21292 -- Windows Search Service Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21292
+  [-] CVE-2025-21362 -- Microsoft Excel Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21362
+  [-] CVE-2025-21354 -- Microsoft Excel Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21354
