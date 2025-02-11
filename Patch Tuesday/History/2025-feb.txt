@@ -1,0 +1,50 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] February 2025 Security Updates
+[+] Found a total of 141 vulnerabilities
+  [-] 20 Elevation of Privilege Vulnerabilities
+  [-] 2 Security Feature Bypass Vulnerabilities
+  [-] 22 Remote Code Execution Vulnerabilities
+  [-] 1 Information Disclosure Vulnerabilities
+  [-] 9 Denial of Service Vulnerabilities
+  [-] 3 Spoofing Vulnerabilities
+  [-] 9 Edge - Chromium Vulnerabilities
+[+] Found 2 exploited in the wild
+  [-] CVE-2025-21391 - 7.1 - Windows Storage Elevation of Privilege Vulnerability
+  [-] CVE-2025-21418 - 7.8 - Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2025-21368 - 8.8 - Microsoft Digest Authentication Remote Code Execution Vulnerability
+  [-] CVE-2025-21369 - 8.8 - Microsoft Digest Authentication Remote Code Execution Vulnerability
+  [-] CVE-2025-21376 - 8.1 - Windows Lightweight Directory Access Protocol (LDAP) Remote Code Execution Vulnerability
+  [-] CVE-2025-21177 - 8.7 - Microsoft Dynamics 365 Sales Elevation of Privilege Vulnerability
+  [-] CVE-2025-21342 - 8.8 - Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability
+  [-] CVE-2025-21408 - 8.8 - Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability
+  [-] CVE-2025-21208 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2025-21406 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21407 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21410 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2025-21190 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21200 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21201 - 8.8 - Windows Telephony Server Remote Code Execution Vulnerability
+  [-] CVE-2025-21371 - 8.8 - Windows Telephony Service Remote Code Execution Vulnerability
+  [-] CVE-2025-21400 - 8.0 - Microsoft SharePoint Server Remote Code Execution Vulnerability
+  [-] CVE-2017-17522 - 8.8 - None
+  [-] CVE-2024-4323 - 9.8 - None
+  [-] CVE-2023-45853 - 9.8 - None
+  [-] CVE-2024-3727 - 8.3 - None
+  [-] CVE-2022-49043 - 8.1 - None
+  [-] CVE-2007-4559 - 9.8 - None
+  [-] CVE-2024-52338 - 9.8 - None
+  [-] CVE-2013-2094 - 8.4 - None
+  [-] CVE-2022-23901 - 9.8 - None
+  [-] CVE-2025-21198 - 9.0 - Microsoft High Performance Compute (HPC) Pack Remote Code Execution Vulnerability
+[+] Found 9 vulnerabilites more likely to be exploited
+  [-] CVE-2025-21376 -- Windows Lightweight Directory Access Protocol (LDAP) Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21376
+  [-] CVE-2025-21419 -- Windows Setup Files Cleanup Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21419
+  [-] CVE-2025-21420 -- Windows Disk Cleanup Tool Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21420
+  [-] CVE-2025-21358 -- Windows Core Messaging Elevation of Privileges Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21358
+  [-] CVE-2025-21367 -- Windows Win32 Kernel Subsystem Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21367
+  [-] CVE-2025-21377 -- NTLM Hash Disclosure Spoofing Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21377
+  [-] CVE-2025-21400 -- Microsoft SharePoint Server Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21400
+  [-] CVE-2025-21184 -- Windows Core Messaging Elevation of Privileges Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21184
+  [-] CVE-2025-21414 -- Windows Core Messaging Elevation of Privileges Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-21414
