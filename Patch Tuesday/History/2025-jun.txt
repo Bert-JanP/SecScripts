@@ -1,0 +1,41 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] June 2025 Security Updates
+[+] Found a total of 79 vulnerabilities
+  [-] 14 Elevation of Privilege Vulnerabilities
+  [-] 3 Security Feature Bypass Vulnerabilities
+  [-] 25 Remote Code Execution Vulnerabilities
+  [-] 17 Information Disclosure Vulnerabilities
+  [-] 6 Denial of Service Vulnerabilities
+  [-] 2 Spoofing Vulnerabilities
+  [-] 2 Edge - Chromium Vulnerabilities
+[+] Found 1 exploited in the wild
+  [-] CVE-2025-33053 - 8.8 - Web Distributed Authoring and Versioning (WEBDAV) Remote Code Execution Vulnerability
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2025-47957 - 8.4 - Microsoft Word Remote Code Execution Vulnerability
+  [-] CVE-2025-29828 - 8.1 - Windows Schannel Remote Code Execution Vulnerability
+  [-] CVE-2025-32710 - 8.1 - Windows Remote Desktop Services Remote Code Execution Vulnerability
+  [-] CVE-2025-33064 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2025-33067 - 8.4 - Windows Task Scheduler Elevation of Privilege Vulnerability
+  [-] CVE-2025-47162 - 8.4 - Microsoft Office Remote Code Execution Vulnerability
+  [-] CVE-2025-47953 - 8.4 - Microsoft Office Remote Code Execution Vulnerability
+  [-] CVE-2025-33071 - 8.1 - Windows KDC Proxy Service (KPSSVC) Remote Code Execution Vulnerability
+  [-] CVE-2025-47966 - 9.8 - Power Automate Elevation of Privilege Vulnerability
+  [-] CVE-2025-33053 - 8.8 - Web Distributed Authoring and Versioning (WEBDAV) Remote Code Execution Vulnerability
+  [-] CVE-2025-33073 - 8.8 - Windows SMB Client Elevation of Privilege Vulnerability
+  [-] CVE-2025-47163 - 8.8 - Microsoft SharePoint Server Remote Code Execution Vulnerability
+  [-] CVE-2025-47164 - 8.4 - Microsoft Office Remote Code Execution Vulnerability
+  [-] CVE-2025-47166 - 8.8 - Microsoft SharePoint Server Remote Code Execution Vulnerability
+  [-] CVE-2025-47167 - 8.4 - Microsoft Office Remote Code Execution Vulnerability
+  [-] CVE-2025-47172 - 8.8 - Microsoft SharePoint Server Remote Code Execution Vulnerability
+  [-] CVE-2025-33070 - 8.1 - Windows Netlogon Elevation of Privilege Vulnerability
+  [-] CVE-2025-33066 - 8.8 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+[+] Found 8 vulnerabilites more likely to be exploited
+  [-] CVE-2025-32713 -- Windows Common Log File System Driver Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-32713
+  [-] CVE-2025-32714 -- Windows Installer Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-32714
+  [-] CVE-2025-47162 -- Microsoft Office Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-47162
+  [-] CVE-2025-33071 -- Windows KDC Proxy Service (KPSSVC) Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-33071
+  [-] CVE-2025-47962 -- Windows SDK Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-47962
+  [-] CVE-2025-47164 -- Microsoft Office Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-47164
+  [-] CVE-2025-47167 -- Microsoft Office Remote Code Execution Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-47167
+  [-] CVE-2025-33070 -- Windows Netlogon Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-33070
