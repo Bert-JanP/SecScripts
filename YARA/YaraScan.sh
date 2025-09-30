@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Usage: ./scan-with-yara.sh <folder_to_scan> <yara_rule_directory>
+# Usage: ./scan-with-yara.sh <folder_or_file_to_scan> <yara_rule_directory>
 
-FOLDER_TO_SCAN="$1"
+TARGET="$1"
 YARA_RULE_DIR="$2"
 
 RED='\033[0;31m'
@@ -10,13 +10,13 @@ GREEN='\033[0;32m'
 ORANGE='\033[0;33m'
 NC='\033[0m' # No Color
 
-if [[ -z "$FOLDER_TO_SCAN" || -z "$YARA_RULE_DIR" ]]; then
-    echo "Usage: $0 <folder_to_scan> <yara_rule_directory>"
+if [[ -z "$TARGET" || -z "$YARA_RULE_DIR" ]]; then
+    echo "Usage: $0 <folder_or_file_to_scan> <yara_rule_directory>"
     exit 1
 fi
 
-if [[ ! -d "$FOLDER_TO_SCAN" ]]; then
-    echo "Folder to scan does not exist: $FOLDER_TO_SCAN"
+if [[ ! -e "$TARGET" ]]; then
+    echo "Target to scan does not exist: $TARGET"
     exit 2
 fi
 
@@ -27,7 +27,20 @@ fi
 
 find "$YARA_RULE_DIR" -type f -name "*.yar" | while read -r RULE_FILE; do
     echo "Using rule $(basename "$RULE_FILE")..."
-    find "$FOLDER_TO_SCAN" -type f | while read -r TARGET_FILE; do
+
+    if [[ -d "$TARGET" ]]; then
+        FILES_TO_SCAN=$(find "$TARGET" -type f)
+    elif [[ -f "$TARGET" ]]; then
+        FILES_TO_SCAN="$TARGET"
+    else
+        echo -e "${ORANGE}Target is neither a file nor a directory: $TARGET${NC}"
+        continue
+    fi
+
+    # Scan each file
+    while read -r TARGET_FILE; do
+        # If no files found, skip
+        [[ -z "$TARGET_FILE" ]] && continue
         echo "Scanning $TARGET_FILE with rule $(basename "$RULE_FILE")..."
         OUTPUT=$(yara "$RULE_FILE" "$TARGET_FILE" 2>&1)
         STATUS=$?
@@ -39,5 +52,5 @@ find "$YARA_RULE_DIR" -type f -name "*.yar" | while read -r RULE_FILE; do
         else
             echo -e "${ORANGE}Rule: $(basename "$RULE_FILE") - Error (skipped for $TARGET_FILE): $OUTPUT${NC}"
         fi
-    done
+    done <<< "$FILES_TO_SCAN"
 done
