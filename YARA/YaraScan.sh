@@ -41,16 +41,15 @@ find "$YARA_RULE_DIR" -type f -name "*.yar" | while read -r RULE_FILE; do
     while read -r TARGET_FILE; do
         # If no files found, skip
         [[ -z "$TARGET_FILE" ]] && continue
-        echo "Scanning $TARGET_FILE with rule $(basename "$RULE_FILE")..."
         OUTPUT=$(yara "$RULE_FILE" "$TARGET_FILE" 2>&1)
         STATUS=$?
-        if [[ $STATUS -eq 0 ]]; then
+        # Only print output for matches or errors, not for 'no match'
+        if [[ $STATUS -eq 0 && -n "$OUTPUT" ]]; then
             echo -e "${RED}Rule: $(basename "$RULE_FILE") - Match found in $TARGET_FILE:${NC}"
             echo -e "${RED}${OUTPUT}${NC}"
-        elif [[ $STATUS -eq 1 ]]; then
-            echo -e "${GREEN}Rule: $(basename "$RULE_FILE") - No match in $TARGET_FILE.${NC}"
-        else
+        elif [[ $STATUS -eq 2 ]]; then
             echo -e "${ORANGE}Rule: $(basename "$RULE_FILE") - Error (skipped for $TARGET_FILE): $OUTPUT${NC}"
         fi
+        # For no match (exit code 1), do not print anything
     done <<< "$FILES_TO_SCAN"
 done
