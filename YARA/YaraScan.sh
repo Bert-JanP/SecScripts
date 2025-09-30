@@ -5,6 +5,11 @@
 FOLDER_TO_SCAN="$1"
 YARA_RULE_DIR="$2"
 
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+ORANGE='\033[0;33m'
+NC='\033[0m' # No Color
+
 if [[ -z "$FOLDER_TO_SCAN" || -z "$YARA_RULE_DIR" ]]; then
     echo "Usage: $0 <folder_to_scan> <yara_rule_directory>"
     exit 1
@@ -27,12 +32,12 @@ find "$YARA_RULE_DIR" -type f -name "*.yar" | while read -r RULE_FILE; do
         OUTPUT=$(yara "$RULE_FILE" "$TARGET_FILE" 2>&1)
         STATUS=$?
         if [[ $STATUS -eq 0 ]]; then
-            echo "Rule: $(basename "$RULE_FILE") - Match found in $TARGET_FILE:"
-            echo "$OUTPUT"
+            echo -e "${RED}Rule: $(basename "$RULE_FILE") - Match found in $TARGET_FILE:${NC}"
+            echo -e "${RED}${OUTPUT}${NC}"
         elif [[ $STATUS -eq 1 ]]; then
-            echo "Rule: $(basename "$RULE_FILE") - No match in $TARGET_FILE."
+            echo -e "${GREEN}Rule: $(basename "$RULE_FILE") - No match in $TARGET_FILE.${NC}"
         else
-            echo "Rule: $(basename "$RULE_FILE") - Error (skipped for $TARGET_FILE): $OUTPUT"
+            echo -e "${ORANGE}Rule: $(basename "$RULE_FILE") - Error (skipped for $TARGET_FILE): $OUTPUT${NC}"
         fi
     done
 done

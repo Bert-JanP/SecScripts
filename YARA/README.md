@@ -12,17 +12,12 @@ sudo apt install yara
 yara -v
 ```
 
-Create YaraScan.sh
+Download YaraScan.sh
 ```shell
-
+wget https://raw.githubusercontent.com/Bert-JanP/SecScripts/refs/heads/main/YARA/YaraScan.sh
 ```
 
 Assign execution permissions to YaraScan.sh
 ```shell
 chmod +x YaraScan.sh
-```
-
-Download public yara files:
-```shell
-
 ```
