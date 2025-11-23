@@ -1,0 +1,49 @@
+[+] Microsoft Patch Tuesday Stats
+[+] https://github.com/Immersive-Labs-Sec/msrc-api
+[+] November 2025 Security Updates
+[+] Found a total of 143 vulnerabilities
+  [-] 34 Elevation of Privilege Vulnerabilities
+  [-] 3 Security Feature Bypass Vulnerabilities
+  [-] 17 Remote Code Execution Vulnerabilities
+  [-] 11 Information Disclosure Vulnerabilities
+  [-] 3 Denial of Service Vulnerabilities
+  [-] 3 Spoofing Vulnerabilities
+  [-] 8 Edge - Chromium Vulnerabilities
+[+] Found 1 exploited in the wild
+  [-] CVE-2025-62215 - 7.0 - Windows Kernel Elevation of Privilege Vulnerability
+[+] Highest Rated Vulnerabilities
+  [-] CVE-2025-64656 - 9.4 - Application Gateway Elevation of Privilege Vulnerability
+  [-] CVE-2025-62210 - 8.7 - Dynamics 365 Field Service (online) Spoofing Vulnerability
+  [-] CVE-2025-62220 - 8.8 - Windows Subsystem for Linux GUI Remote Code Execution Vulnerability
+  [-] CVE-2025-62452 - 8.0 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2025-64655 - 8.8 - Dynamics OmniChannel SDK Storage Containers Elevation of Privilege Vulnerability
+  [-] CVE-2025-59245 - 9.8 - Microsoft SharePoint Online Elevation of Privilege Vulnerability
+  [-] CVE-2025-62207 - 8.6 - Azure Monitor Elevation of Privilege Vulnerability
+  [-] CVE-2025-60715 - 8.0 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
+  [-] CVE-2025-60724 - 9.8 - GDI+ Remote Code Execution Vulnerability
+  [-] CVE-2025-62204 - 8.0 - Microsoft SharePoint Remote Code Execution Vulnerability
+  [-] CVE-2025-59499 - 8.8 - Microsoft SQL Server Elevation of Privilege Vulnerability
+  [-] CVE-2025-62211 - 8.7 - Dynamics 365 Field Service (online) Spoofing Vulnerability
+  [-] CVE-2025-62222 - 8.8 - Agentic AI and Visual Studio Code Remote Code Execution Vulnerability
+  [-] CVE-2025-62459 - 8.3 - Microsoft Defender Portal Spoofing Vulnerability
+  [-] CVE-2025-30398 - 8.1 - Nuance PowerScribe 360 Information Disclosure Vulnerability
+  [-] CVE-2025-64657 - 9.8 - Azure Application Gateway Elevation of Privilege Vulnerability
+  [-] CVE-2025-40149 - 9.8 - tls: Use __sk_dst_get() and dst_dev_rcu() in get_netdev_for_sock().
+  [-] CVE-2025-60876 - 9.4 - BusyBox wget thru 1.3.7 accepted raw CR (0x0D)/LF (0x0A) and other C0 control bytes in the HTTP request-target (path/query), allowing the request line to be split and attacker-controlled headers to be injected. To preserve the HTTP/1.1 request-line shape METHOD SP request-target SP HTTP/1.1, a raw space (0x20) in the request-target must also be rejected (clients should use %20).
+  [-] CVE-2025-40167 - 9.8 - ext4: detect invalid INLINE_DATA + EXTENTS flag combination
+  [-] CVE-2025-40135 - 8.4 - ipv6: use RCU in ip6_xmit()
+  [-] CVE-2025-40139 - 8.4 - smc: Use __sk_dst_get() and dst_dev_rcu() in in smc_clc_prfx_set().
+  [-] CVE-2025-40172 - 9.8 - accel/qaic: Treat remaining == 0 as error in find_and_map_user_pages()
+  [-] CVE-2025-40168 - 9.8 - smc: Use __sk_dst_get() and dst_dev_rcu() in smc_clc_prfx_match().
+  [-] CVE-2025-40165 - 9.8 - media: nxp: imx8-isi: m2m: Fix streaming cleanup on release
+  [-] CVE-2025-40170 - 8.1 - net: use dst_dev_rcu() in sk_setup_caps()
+  [-] CVE-2025-40158 - 9.8 - ipv6: use RCU in ip6_output()
+  [-] CVE-2025-40176 - 8.4 - tls: wait for pending async decryptions if tls_strp_msg_hold fails
+  [-] CVE-2025-49752 - 10.0 - Azure Bastion Elevation of Privilege Vulnerability
+[+] Found 6 vulnerabilites more likely to be exploited
+  [-] CVE-2025-59512 -- Customer Experience Improvement Program (CEIP) Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-59512
+  [-] CVE-2025-60705 -- Windows Client-Side Caching Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-60705
+  [-] CVE-2025-60719 -- Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-60719
+  [-] CVE-2025-62217 -- Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-62217
+  [-] CVE-2025-64655 -- Dynamics OmniChannel SDK Storage Containers Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-64655
+  [-] CVE-2025-62213 -- Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability - https://www.cve.org/CVERecord?id=CVE-2025-62213
